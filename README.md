@@ -18,8 +18,8 @@ Its option 1 thats the important part. Make sure you take notes in your own word
 * So watch a video and do a lab. Take short notes. Key points only. Your words only. No transcribing what the speaker says. Must be your words.
 * Purpose of notes is to set up your brain. Create your mental structure to help you remember. Doesn’t work if they are too verbose
 
-## Practice Exams (Use tutorialsdojo.com)
-Questions: do it in review mode one question at a time
+## Practice E xams (Use tutorialsdojo.com)
+* Start doing questions in review mode one question at a time
 * First summarise on paper what it is asking you. In your words. 
 * Then WHY each answer is right or wrong. Not just “I remember this, it’s C”
 * See the answer / explanations. 
