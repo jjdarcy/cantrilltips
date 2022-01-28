@@ -9,6 +9,7 @@ There are many questions on the TechStudySlack.com community about how best to s
 * Everything is about maximising the effectiveness not the quantity
 * Study smarter and not harder. Sleep. Take breaks. Short notes, very few screenshots.
 * Do lots of lab exercises - practise what you’ve just watched, in different ways.
+* Get hands on. Do the labs Adrian designed for his course. If there are any areas that confuse you, do them again. Dive in and play around. That will help you in your career far more than simply memorizing the concepts.
 
 ## Taking Notes
 There are typically 2 types of note takers:
