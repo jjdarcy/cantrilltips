@@ -1,5 +1,5 @@
 # Cantrill tips
-Some tips for using Adrian Cantrills courses on cantril.io. Send a PR to add or improved these tips.
+Some tips for using Adrian Cantrills courses on cantril.io. Send a PR to add or improve these tips.
 
 ## Introduction
 There are many questions on the TechStudySlack.com community about how best to study for an AWS exam. This site gathers the most effective ways you can use Adrians courses to succeed with your studies. Will add to these tips over time. 
