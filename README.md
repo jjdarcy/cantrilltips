@@ -2,7 +2,7 @@
 Some tips for using Adrian Cantrills courses on cantril.io. Send a PR to add or improved these tips.
 
 ## Introduction
-There are many questions on the TechStudySlack.com community about how best to study for an AWS exam. This site gathers the most effective ways you can use Adrians courses to succeed with your studies. 
+There are many questions on the TechStudySlack.com community about how best to study for an AWS exam. This site gathers the most effective ways you can use Adrians courses to succeed with your studies. Will add to these tips over time. 
 
 ## Process
 * Focus only on quality. Concise quality and full understanding
@@ -18,7 +18,7 @@ Its option 1 thats the important part. Make sure you take notes in your own word
 * So watch a video and do a lab. Take short notes. Key points only. Your words only. No transcribing what the speaker says. Must be your words.
 * Purpose of notes is to set up your brain. Create your mental structure to help you remember. Doesn’t work if they are too verbose
 
-## Practice E xams (Use tutorialsdojo.com)
+## Practice Exams (Use tutorialsdojo.com)
 * Start doing questions in review mode one question at a time
 * First summarise on paper what it is asking you. In your words. 
 * Then WHY each answer is right or wrong. Not just “I remember this, it’s C”
