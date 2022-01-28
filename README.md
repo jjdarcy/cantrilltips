@@ -12,10 +12,9 @@ There are many questions on the TechStudySlack.com community about how best to s
 
 ## Taking Notes
 There are typically 2 types of note takers:
-* Short and punchy, with a focus on linking concepts together, and contrasting similar services - all summarised in your own words
-* Or really verbose, almost transcripts of the course / documents, in the original authors words
+- Short and punchy, with a focus on linking concepts together, and contrasting similar services - all summarised in your own words
+- Or really verbose, almost transcripts of the course / documents, in the original authors words
 Its option 1 thats the important part. Make sure you take notes in your own words and keep them brief. Option 2 is not very effective, to get anything to stick in your mind
-
 * So watch a video and do a lab. Take short notes. Key points only. Your words only. No transcribing what the speaker says. Must be your words.
 * Purpose of notes is to set up your brain. Create your mental structure to help you remember. Doesn’t work if they are too verbose
 
