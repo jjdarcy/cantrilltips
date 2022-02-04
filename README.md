@@ -35,7 +35,7 @@ You need to keep doing this till you’re getting >95% correct
 ## Useful Links
 * Duration of lessons: https://cantrill.io.i-aws.cloud/
 * Are you really Associate level?: https://www.linkedin.com/pulse/so-you-think-youre-associate-level-solutions-adrian-cantrill 
-* Setup Teachable app: https://support.teachable.com/hc/en-us/articles/115000099372 
+* Setup Teachable app: https://support.teachable.com/hc/en-us/articles/236078487-Teachable-Accounts
 * Adrians roadmap: https://www.notion.so/96fc88a739dc45a59174f1acd8a96776?v=604d7bc7ed9744e1982ef257273d44f9 
 * Practice Exams: https://tutorialsdojo.com/
 * Why we remember what we write: https://www.lifehack.org/articles/featured/writing-and-remembering-why-we-remember-what-we-write.html
