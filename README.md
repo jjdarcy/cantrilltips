@@ -23,7 +23,7 @@ Its option 1 thats the important part. Make sure you take notes in your own word
 * Purpose of notes is to set up your brain. Create your mental structure to help you remember. Doesn’t work if they are too verbose
 
 ## Practice Exams (Use tutorialsdojo.com)
-* Find Adrians course BEFORE you start on the tutorialsdodjo.com tests. The best value, identifying gaps in knowledge, comes from the first time you do them.  
+* Finish Adrians course BEFORE you start on the tutorialsdodjo.com tests. The best value, identifying gaps in knowledge, comes from the first time you do them.  
 * Start doing questions in review mode one question at a time
 * First summarise on paper what it is asking you. In your words. 
 * Then WHY each answer is right or wrong. Not just “I remember this, it’s C”
