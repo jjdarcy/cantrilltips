@@ -9,7 +9,7 @@ There are many questions on the TechStudySlack.com community about how best to s
 * Everything is about maximising the effectiveness not the quantity
 * Study smarter and not harder. Sleep. Take breaks. Short notes, very few screenshots.
 * Do lots of lab exercises - practise what you’ve just watched, in different ways.
-* Get hands on. Do the labs Adrian designed for his course. If there are any areas that confuse you, do them again. Dive in and play around. That will help you in your career far more than simply memorizing the concepts.
+* Get hands on. Do the labs/demos Adrian designed for his course. If there are any areas that confuse you, do them again. Dive in and play around. That will help you in your career far more than simply memorizing the concepts.
 * Use the quiz at the end of each section to anchor knowledge learned.
 * Do not move on until you fully understand the content in the videos
 * Ask questions to the slack community. Use #exam-question-corner to dicuss answers with other in the community. 
