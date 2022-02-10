@@ -31,7 +31,7 @@ Its option 1 thats the important part. Make sure you take notes in your own word
 * Assess whether you correctly wrote down the same key points and adjust your summary.
 * Repeat next question
 This takes a long. But is way more effective than just sitting the paper and looking which you got right/wrong.
-You need to keep doing this till you’re getting >95% correct
+You need to keep doing this till you’re getting >90% correct
 
 ## Useful Links
 * Duration of lessons: https://cantrill.io.i-aws.cloud/
