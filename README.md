@@ -1,8 +1,8 @@
 # Cantrill tips
-Some tips for using Adrian Cantrills courses on cantril.io. Send a PR to add or improve these tips.
+Some tips for using Adrian Cantrills courses on https://learn.cantrill.io/. Submit a PR to add or improve upon this repository.
 
 ## Introduction
-There are many questions on the TechStudySlack.com community about how best to study for an AWS exam. This site gathers the most effective ways you can use Adrians courses to succeed with your studies. Will add to these tips over time. 
+There are many questions on the [TechStudySlack](https://techstudyslack.com/) community asking how to study efficiently for an AWS exams. This site gathers the most effective ways you can use Adrian's courses to succeed in your studies. These tips will be improved upon over time. 
 
 ## Process
 * Focus only on quality. Concise quality and full understanding
@@ -12,32 +12,38 @@ There are many questions on the TechStudySlack.com community about how best to s
 * Get hands on. Do the labs/demos Adrian designed for his course. If there are any areas that confuse you, do them again. Dive in and play around. That will help you in your career far more than simply memorizing the concepts.
 * Use the quiz at the end of each section to anchor knowledge learned.
 * Do not move on until you fully understand the content in the videos
-* Ask questions to the slack community. Use #exam-question-corner to dicuss answers with other in the community. 
+* Confused? Have a question? Ask on the [slack community](https://techstudyslack.com/). Use `#exam-question-corner` to dicuss answers with others in the community. 
 
 ## Taking Notes
 There are typically 2 types of note takers:
-- Short and punchy, with a focus on linking concepts together, and contrasting similar services - all summarised in your own words
-- Or really verbose, almost transcripts of the course / documents, in the original authors words
-Its option 1 thats the important part. Make sure you take notes in your own words and keep them brief. Option 2 is not very effective, to get anything to stick in your mind
-* So watch a video and do a lab. Take short notes. Key points only. Your words only. No transcribing what the speaker says. Must be your words.
-* Purpose of notes is to set up your brain. Create your mental structure to help you remember. Doesn’t work if they are too verbose
+* `Short and punchy`, with a focus on linking concepts together, and contrasting similar services - all summarised in your own words
+* `Really verbose`, almost transcripts of the course / documents, in the original authors words
+
+Short and punchy is the important part. Make sure you take notes *in your own words* and *keep them brief*. Verbose notes are not very effective in getting anything to stick in your mind. Therefore, watch a video and do a lab. Take short notes. Key points only. Your words only. No transcribing what the speaker says. Must be your words.
+
+> ⚠️ The purpose of notes is to *'set up your brain'*, to create a mental structure which helps you remember. This is less effective, if you are too verbose.
 
 ## Practice Exams (Use tutorialsdojo.com)
-* Finish Adrians course BEFORE you start on the tutorialsdodjo.com tests. The best value, identifying gaps in knowledge, comes from the first time you do them.  
+* Finish all of a course's material **BEFORE** you start on the https://tutorialsdojo.com/ tests. The best value comes from the first time you do them.
 * Start doing questions in review mode one question at a time
 * First summarise on paper what it is asking you. In your words. 
 * Then WHY each answer is right or wrong. Not just “I remember this, it’s C”
 * See the answer / explanations. 
 * Assess whether you correctly wrote down the same key points and adjust your summary.
 * Repeat next question
-This takes a long. But is way more effective than just sitting the paper and looking which you got right/wrong.
-You need to keep doing this till you’re getting >90% correct
+
+This can take a long time, but is way more effective than just sitting the paper and looking which you got right/wrong. You should keep doing this until you achieve above >90% score for a practice exam.
 
 ## Useful Links
-* Duration of lessons: https://cantrill.io.i-aws.cloud/
-* Are you really Associate level?: https://www.linkedin.com/pulse/so-you-think-youre-associate-level-solutions-adrian-cantrill 
-* Setup Teachable app: https://support.teachable.com/hc/en-us/articles/236078487-Teachable-Accounts
-* Adrians roadmap: https://www.notion.so/96fc88a739dc45a59174f1acd8a96776?v=604d7bc7ed9744e1982ef257273d44f9 
-* Practice Exams: https://tutorialsdojo.com/
-* Why we remember what we write: https://www.lifehack.org/articles/featured/writing-and-remembering-why-we-remember-what-we-write.html
-
+* https://cantrill.io.i-aws.cloud/
+  * Lesson and section duration of Adrian's courses, course overlap. Created by a student.
+* https://www.notion.so/96fc88a739dc45a59174f1acd8a96776?v=604d7bc7ed9744e1982ef257273d44f9 
+  * Roadmap for Adrian's AWS courses
+* https://tutorialsdojo.com/
+  * Practice Exams
+* https://www.linkedin.com/pulse/so-you-think-youre-associate-level-solutions-adrian-cantrill
+  * Blogpost: **Are you really Associate level?**
+* https://www.lifehack.org/articles/featured/writing-and-remembering-why-we-remember-what-we-write.html
+  * Blogpost: **Why we remember what we write**
+* https://support.teachable.com/hc/en-us/articles/236078487-Teachable-Accounts
+  * Setting up Teachable Accounts
