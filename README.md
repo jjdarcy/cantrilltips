@@ -47,3 +47,5 @@ This can take a long time, but is way more effective than just sitting the paper
   * Blogpost: **Why we remember what we write**
 * https://support.teachable.com/hc/en-us/articles/236078487-Teachable-Accounts
   * Setting up Teachable Accounts
+* https://lnkd.in/gPFKYB4M
+  * Career change motivation article on LinkedIn
