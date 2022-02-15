@@ -1,5 +1,6 @@
 # Frequently Asked Questions
 This FAQ gathers many of the questions asked on https://learn.cantrill.io/ so there is a permanent record of the advice given. 
+You can add questions by replacing the "Question x" with your question and writing the anchor replacing spaces with -. Then just add the answer underneath. 
 Please submit a PR to add or improve upon this FAQ.
 
 - [How long do Adrians videos take?](#how-long-do-videos-take)
@@ -10,8 +11,8 @@ Please submit a PR to add or improve upon this FAQ.
 - [Question 6?](#question-6)
 - [Question 7?](#question-7)
 - [Question 8?](#question-8)
-- [Question 8?](#question-9)
-- [Question 8?](#question-10)
+- [Question 9?](#question-9)
+- [Question 10?](#question-10)
 
 ## How long do videos take?
 
