@@ -4,7 +4,7 @@ Please submit a PR to add or improve upon this FAQ.
 
 - [How long do Adrians videos take?](#how-long-do-videos-take)
 - [Why do I get an error creating accounts?](#why-do-I-get-an-error-creating-accounts)
-- [Question 3?](#question-3)
+- [Whats Adrians Roadmap for new courses?](#whats-Adrians-Roadmap-for-new-courses)
 - [Question 4?](#question-4)
 - [Question 5?](#question-5)
 - [Question 6?](#question-6)
@@ -25,7 +25,10 @@ An error "You have exceeded the allowed number of AWS accounts" is sometimes see
 for some time now. It shows "10", but for new accounts the quota is actually set to "2". From discussions on [TechStudySlack](https://techstudyslack.com/) this error
 can be seen after some unknown/unspecified period. It grows to the displayed value of 10. Logging a ticket with AWS can help expedite this.
 
-## Question 3
+## Whats Adrians Roadmap for new courses?
+
+Adrian has put a notion site together which he keeps updated. 
+You can find it here: https://www.notion.so/96fc88a739dc45a59174f1acd8a96776?v=604d7bc7ed9744e1982ef257273d44f9 
 
 ## Question 4
 
