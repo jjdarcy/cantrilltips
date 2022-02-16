@@ -51,8 +51,9 @@ accounts. It will make your life easier :-)
 
 ## Are my associate certifications renewed when I pass a professional certification?
 
-As soon as you pass a Professional exam, the relevant associates are automatically renewed. If you pass the DevOps Professional certification, then both 
-Dev Associate and SysOps Associate are renewed instantly. If you pass the Architect Professional certification, then Architect Associate is renewed. 
+As soon as you pass a Professional exam, the relevant **ACTIVE** associate certifications are automatically renewed. If you pass the DevOps Professional 
+certification, then both Dev Associate and SysOps Associate are renewed instantly. If you pass the Architect Professional certification, then Architect 
+Associate is renewed. 
 
 ## Question 7
 
