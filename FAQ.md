@@ -7,7 +7,7 @@ Please submit a PR to add or improve upon this FAQ.
 - [Why do I get an error creating accounts?](#why-do-i-get-an-error-creating-accounts)
 - [Whats Adrians Roadmap for new courses?](#whats-adrians-roadmap-for-new-courses)
 - [What is the best path to take through the AWS certifications?](#what-is-the-best-path-to-take-through-the-aws-certifications)
-- [Question 5?](#question-5)
+- [Do I need to create new accounts for the course?](#do-i-need-to-create-new-accounts-for-the-course)
 - [Question 6?](#question-6)
 - [Question 7?](#question-7)
 - [Question 8?](#question-8)
