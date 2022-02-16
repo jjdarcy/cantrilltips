@@ -37,10 +37,17 @@ Best answer is "It depends" on the role you are going for :-) The certs are divi
 Professional. For most people wanting to work with AWS, its best to take the Solutions Architect - Associate (SAA-C02) first to give you the broadest knowledge 
 of AWS. Then you can take the other associates; Developer (DVA-01) and SysOps (SOA-C02) or go directly to the Solutions Architect - Professional (SAP-C01) if you
 have worked with AWS and feel comfortable moving on to the SAP. Remember: The SAP certification is broad and deep across all AWS services and takes a serious 
-focus on study. If you do get the SAP-C01, its also a good idea to take the AWS Certified Security - Specialty soon after the SAP-C01 as many of the topics are 
+focus on study. 
+
+If you do get the SAP-C01, its also a good idea to take the AWS Certified Security - Specialty soon after the SAP-C01 as many of the topics are 
 covered already in Adrians SAP-C01 course (with extra reading on AWS KMS). Then the rest of the specialties can be taken in any order. 
 
-## Question 5
+## Do I need to create new accounts for the course?
+
+Yes. Create new accounts for each course you take. THIS IS VERY IMPORTANT. 
+Accounts in AWS are disposable and give you the permission boundary needed to contain your labs etc. Dont use
+existing accounts either as they might have password policies and other contraints that will give you problems during the course. Take the time to create new 
+accounts. It will make your life easier :-)
 
 ## Question 6
 
