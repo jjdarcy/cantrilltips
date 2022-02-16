@@ -8,7 +8,7 @@ Please submit a PR to add or improve upon this FAQ.
 - [Whats Adrians Roadmap for new courses?](#whats-adrians-roadmap-for-new-courses)
 - [What is the best path to take through the AWS certifications?](#what-is-the-best-path-to-take-through-the-aws-certifications)
 - [Do I need to create new accounts for the course?](#do-i-need-to-create-new-accounts-for-the-course)
-- [Question 6?](#question-6)
+- [Are my associate certifications renewed when I pass a professional certification?](#are-my-associate-certifications-renewed-when-i-pass-a-professional-certification)
 - [Question 7?](#question-7)
 - [Question 8?](#question-8)
 - [Question 9?](#question-9)
@@ -49,7 +49,10 @@ Accounts in AWS are disposable and give you the permission boundary needed to co
 existing accounts either as they might have password policies and other contraints that will give you problems during the course. Take the time to create new 
 accounts. It will make your life easier :-)
 
-## Question 6
+## Are my associate certifications renewed when I pass a professional certification?
+
+As soon as you pass a Professional exam, the relevant associates are automatically renewed. If you pass the DevOps Professional certification, then both 
+Dev Associate and SysOps Associate are renewed instantly. If you pass the Architect Professional certification, then Architect Associate is renewed. 
 
 ## Question 7
 
