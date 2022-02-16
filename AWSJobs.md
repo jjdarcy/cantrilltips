@@ -45,7 +45,7 @@ Tech wise. You might get stuff like:
 * Can you design from scratch an AWS account? Think org structure
 * Lay out VPCs. Zone subnets. Public and private. Add IGW, natGW, DX back to on prem. dns. Ad. Monitoring, logging, config
 * Can you put a three tier app into that account? How do you scale it, secure it, make it resilient, add operations features - basically work thru the well architected framework
-* hen how do you do other stuff like private link to a SaaS service, or setup redshift for analytics, or migrate data from a legacy thing (these are all scenarios you know super well from SAP) (edited) 
+* Then how do you do other stuff like private link to a SaaS service, or setup redshift for analytics, or migrate data from a legacy thing (these are all scenarios you know super well from SAP) (edited) 
 * What happenes when you type Amazon.com into a web browser (tcp, dns, TLS, webserver)
 * What is the cloud (maybe sell the benefits of cloud to me)
 * What is a container & why would I use one
