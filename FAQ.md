@@ -9,7 +9,7 @@ Please submit a PR to add or improve upon this FAQ.
 - [What is the best path to take through the AWS certifications?](#what-is-the-best-path-to-take-through-the-aws-certifications)
 - [Do I need to create new accounts for the course?](#do-i-need-to-create-new-accounts-for-the-course)
 - [Are my associate certifications renewed when I pass a professional certification?](#are-my-associate-certifications-renewed-when-i-pass-a-professional-certification)
-- [Question 7?](#question-7)
+- [Can i download sessions for offline view?](#can-i-download-sessions-for-offline-view)
 - [Question 8?](#question-8)
 - [Question 9?](#question-9)
 - [Question 10?](#question-10)
@@ -55,7 +55,13 @@ As soon as you pass a Professional exam, the relevant **ACTIVE** associate certi
 certification, then both Dev Associate and SysOps Associate are renewed instantly. If you pass the Architect Professional certification, then Architect 
 Associate is renewed. 
 
-## Question 7
+## Can i download sessions for offline view?
+
+There is no "offline" or download function available as such. However, if you use the Teachable IOS app from the Apple App Store you can download videos and
+listen/see them offline. I use it when travelling or when out walking/running to refresh some courses. The Teachable setup is not very user friendly, so patience
+is required :-) You need to create a teachable account and link your cantrill.io account to it to be able to access it. See this link for details:
+https://support.teachable.com/hc/en-us/articles/236078487-Teachable-Accounts 
+At the time of writing, there is no Android equivalent. 
 
 ## Question 8
 
