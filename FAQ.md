@@ -4,6 +4,7 @@ You can add questions by replacing the "Question x" with your question and writi
 Please submit a PR to add or improve upon this FAQ.
 
 - [How many hours do Adrians videos take?](#how-many-hours-do-videos-take)
+- [How long does it take to complete SAA-C02 course?](#how-long-does-it-take-to-complete-saa-c02-course)
 - [Why do I get an error creating accounts?](#why-do-i-get-an-error-creating-accounts)
 - [Whats Adrians Roadmap for new courses?](#whats-adrians-roadmap-for-new-courses)
 - [What is the best path to take through the AWS certifications?](#what-is-the-best-path-to-take-through-the-aws-certifications)
@@ -19,6 +20,11 @@ Please submit a PR to add or improve upon this FAQ.
 This question has been asked numerous times on [TechStudySlack](https://techstudyslack.com/). So much so, that a student Sherif Fanous created a site that 
 Sherif built this Webapp. There are also charts showing the ooverlap between courses. Check it out.
 You can find it here: https://cantrill.io.i-aws.cloud/
+
+## How long does it take to complete SAA-C02 course?
+
+For most people you should budget with 6-8 weeks with 1-2 hours study per day. Take all the fundamental lessons to get understanding of the basics in place before 
+continuing with the course. The videos are specifically put in an order to help you get the understanding and knowledge of the course.
 
 ## Why do I get an error creating accounts
 
