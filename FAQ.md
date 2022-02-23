@@ -11,7 +11,7 @@ Please submit a PR to add or improve upon this FAQ.
 - [Do I need to create new accounts for the course?](#do-i-need-to-create-new-accounts-for-the-course)
 - [Are my associate certifications renewed when I pass a professional certification?](#are-my-associate-certifications-renewed-when-i-pass-a-professional-certification)
 - [Can i download sessions for offline view?](#can-i-download-sessions-for-offline-view)
-- [Question 8?](#question-8)
+- [Why are only 4 layers are covered in the network starter fundamentals?](#why-are-only-4-layers-are-covered-in-the-network-starter-fundamentals)
 - [Question 9?](#question-9)
 - [Question 10?](#question-10)
 
@@ -69,7 +69,11 @@ is required :-) You need to create a teachable account and link your cantrill.io
 https://support.teachable.com/hc/en-us/articles/236078487-Teachable-Accounts 
 At the time of writing, there is no Android equivalent. 
 
-## Question 8
+## Why are only 4 layers are covered in the network starter fundamentals?
+
+Layers 5 (SESSION), 6 (PRESENTATION) and 7 (APPLICATION). The application layer is something you organically learn (HTTP/S etc) and the presentation and session layers 
+are covered intrinsically throughout the course. The 1-4 layers are the ones that need to be covered in isolation and you get to understand the rest as you go through  
+the course.  
 
 ## Question 9
 
