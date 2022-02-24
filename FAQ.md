@@ -12,8 +12,8 @@ Please submit a PR to add or improve upon this FAQ.
 - [Are my associate certifications renewed when I pass a professional certification?](#are-my-associate-certifications-renewed-when-i-pass-a-professional-certification)
 - [Can i download sessions for offline view?](#can-i-download-sessions-for-offline-view)
 - [Why are only 4 layers are covered in the network starter fundamentals?](#why-are-only-4-layers-are-covered-in-the-network-starter-fundamentals)
-- [Question 9?](#question-9)
-- [Question 10?](#question-10)
+- [Are the slides of the course available?](#are-the-slides-of-the-course-available)
+
 
 ## How many hours do videos take?
 
@@ -75,6 +75,10 @@ Layers 5 (SESSION), 6 (PRESENTATION) and 7 (APPLICATION). The application layer 
 are covered intrinsically throughout the course. The 1-4 layers are the ones that need to be covered in isolation and you get to understand the rest as you go through  
 the course.  
 
-## Question 9
+## Are the slides of the course available?
 
-## Question 10
+Short answer "no". The reasoning behind this is that you need to learn and understand the architecture by going though the course material understanding bit by bit on 
+all visuals. On the associated github under https://github.com/acantril you will find a 00_LearningAids folder under some of the topics where a png version of the visuals
+is available. 
+
+
