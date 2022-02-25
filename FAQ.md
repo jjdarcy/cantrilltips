@@ -14,6 +14,8 @@ Please submit a PR to add or improve upon this FAQ.
 - [Why are only 4 layers are covered in the network starter fundamentals?](#why-are-only-4-layers-are-covered-in-the-network-starter-fundamentals)
 - [Are the slides of the course available?](#are-the-slides-of-the-course-available)
 - [Any ideas as to what applications should I write to help me learn?](#any-ideas-as-to-what-applications-should-i-write-to-help-me-learn)
+- [Do these courses help you get real jobs at the end?](#do-these-courses-help-you-get-real-jobs-at-the-end)
+
 
 ## How many hours do videos take?
 
@@ -105,3 +107,7 @@ For this, I’ll be using Nextcloud https://nextcloud.com/:
 
 You can do a lot more, and use a lot more AWS services and make this more complicated. Just bear in mind that this example can be expensive if you upload/download a lot 
 of data from/to AWS. You should use it as a project and proof of concept. But you can go even further and cost optimize your project architecture.
+
+## Do these courses help you get real jobs at the end?
+Certifications get you interviews not jobs. It gets you to the table. Experience gets you jobs (on the job, personal projects or stuff learned while studying). Adrians courses
+are very skill focussed. Its a "by-product" getting the certifications. He is preparing you for real work experience. 
