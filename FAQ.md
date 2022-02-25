@@ -13,7 +13,7 @@ Please submit a PR to add or improve upon this FAQ.
 - [Can i download sessions for offline view?](#can-i-download-sessions-for-offline-view)
 - [Why are only 4 layers are covered in the network starter fundamentals?](#why-are-only-4-layers-are-covered-in-the-network-starter-fundamentals)
 - [Are the slides of the course available?](#are-the-slides-of-the-course-available)
-
+- [Any ideas as to what applications should I write to help me learn?](#any-ideas-as-to-what-applications-should-i-write-to-help-me-learn)
 
 ## How many hours do videos take?
 
@@ -81,4 +81,27 @@ Short answer "no". The reasoning behind this is that you need to learn and under
 all visuals. On the associated github under https://github.com/acantril you will find a 00_LearningAids folder under some of the topics where a png version of the visuals
 is available. 
 
+## Any ideas as to what applications should I write to help me learn?
+You should choose a project that solves some problem or helps you (or your friends/family) in some way. You’ll be more productive and more motivated that way. Can really 
+be anything, here are some ideas:
+* Cryptocurrency tracking application of some kind
+* Personal cloud storage (OneDrive/Dropbox clone, but YOURS!)
+* VPN for you and all your devices
+* Blog/website of your own
 
+I’ll use one example, and illustrate what you can do for a personal project that you can showcase on Linkedin, and I’ll take personal cloud storage as an example. 
+For this, I’ll be using Nextcloud https://nextcloud.com/:
+- Deploy NextCloud locally on your computer and test it out, see how it works.
+- Deploy NextCloud on an EC2 instance, install the NextCloud client on both your phone and computer and make sure you can upload/download files.
+- Migrate the database to RDS and make NextCloud work with it. Migrate the storage to S3 (or EFS/EBS, whatever you want).
+- Put CloudFront in front of your NextCloud instance, add an ACM certificate and make sure it’s HTTPS-only (redirect from HTTP->HTTPS)
+- Migrate your application from EC2 to ECS, deploy NextCloud as a Fargate container. If you want, migrate your database to a container as well.
+- Put a load balancer in front of ECS
+- Now define everything that you did in code using CloudFormation/Terraform/Pulumi, whatever you want.
+- Put it all in a git repository (Github/Gitlab). Make sure not to commit any secrets to your repo!
+- Use CI/CD to automatically deploy everything.
+- Create an architecture diagram in the README.md and make sure to provide detailed instructions so anyone can deploy what you just did
+- Once your repo is ready, publish to Linkedin, along with a blog post telling about your journey and what you learned.
+
+You can do a lot more, and use a lot more AWS services and make this more complicated. Just bear in mind that this example can be expensive if you upload/download a lot 
+of data from/to AWS. You should use it as a project and proof of concept. But you can go even further and cost optimize your project architecture.
