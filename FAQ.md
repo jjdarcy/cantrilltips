@@ -114,5 +114,6 @@ Certifications get you interviews not jobs. It gets you to the table. Experience
 are very skill focussed. Its a "by-product" getting the certifications. He is preparing you for real work experience. 
 
 ## Whats an aggeressive but reasonable timeframe to complete all 3 associates?
-The average is 6-8 weeks given 1-2 hours a day per exam. It all depends on your skill level and how much you are focussing on learning versus passing. THe setup in Adrians 
-courses starts with an organisational configuration as this is what people see in their workplaces also. All advanced demos give you the skille you need. 
+The average is 6-8 weeks given 1-2 hours a day per exam. It all depends on your skill level and how much you are focussing on learning versus passing. The setup in Adrians 
+courses starts with an organisational configuration as this is what people see in their workplaces also. Adrians courses are also designed to overlap, so after completing the 
+first associate that is cut down by 60% for the other courses as he has designed for this overlap, 
