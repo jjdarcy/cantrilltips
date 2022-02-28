@@ -15,6 +15,7 @@ Please submit a PR to add or improve upon this FAQ.
 - [Are the slides of the course available?](#are-the-slides-of-the-course-available)
 - [Any ideas as to what applications should I write to help me learn?](#any-ideas-as-to-what-applications-should-i-write-to-help-me-learn)
 - [Do these courses help you get real jobs at the end?](#do-these-courses-help-you-get-real-jobs-at-the-end)
+- [Whats an aggeressive but reasonable timeframe to complete all 3 associates?](#whats-an-aggeressive-but-reasonable-timeframe-to-complete-all-3-associates)
 
 
 ## How many hours do videos take?
@@ -111,3 +112,7 @@ of data from/to AWS. You should use it as a project and proof of concept. But yo
 ## Do these courses help you get real jobs at the end?
 Certifications get you interviews not jobs. It gets you to the table. Experience gets you jobs (on the job, personal projects or stuff learned while studying). Adrians courses
 are very skill focussed. Its a "by-product" getting the certifications. He is preparing you for real work experience. 
+
+## Whats an aggeressive but reasonable timeframe to complete all 3 associates?
+The average is 6-8 weeks given 1-2 hours a day per exam. It all depends on your skill level and how much you are focussing on learning versus passing. THe setup in Adrians 
+courses starts with an organisational configuration as this is what people see in their workplaces also. All advanced demos give you the skille you need. 
