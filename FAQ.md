@@ -17,6 +17,7 @@ Please submit a PR to add or improve upon this FAQ.
 - [Any ideas as to what applications should I write to help me learn?](#any-ideas-as-to-what-applications-should-i-write-to-help-me-learn)
 - [Do these courses help you get real jobs at the end?](#do-these-courses-help-you-get-real-jobs-at-the-end)
 - [Resetting course progress?](#resetting-course-progress)
+- [Is there a PDFF of the course?](#is-there-a-pdf-of-the-course)
 
 
 ## How many hours do videos take?
@@ -124,3 +125,8 @@ studying). Adrian's courses are very skill focussed. It's a "by-product" getting
 Technically, from what Teachable have said, it is possible with a loooooooot of work for Adrian to reset the course progress. But he has to delete the whole
 profile for every single person who asks, 1 at a time. And then we'd never get new lessons or updates!
 So very reasonably, Adrian has said "no". You could possibly log a support request with Teachable to ask for students to be able to reset their own progress.
+
+## Is there a PDF of the course?
+Qucik answer is "NO". The best way to learn anything is to take your own notes. This makes sure you understand the material in the course. All studies show that taking
+your own notes helps you understand what you are learning. See: https://www.lifehack.org/articles/featured/writing-and-remembering-why-we-remember-what-we-write.html
+There are learning aids in the Github repo but that is specific details and not a PDF of whats said in the course material. See README.md for how best to take notes. 
