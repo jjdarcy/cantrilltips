@@ -19,6 +19,7 @@ Please submit a PR to add or improve upon this FAQ.
 - [Resetting course progress?](#resetting-course-progress)
 - [Is there a PDFF of the course?](#is-there-a-pdf-of-the-course)
 - [How do I populate my shortcuts bar?](#how-do-i-populate-my-shortcuts-bar)
+- [Are there any problems with Architecture Evolution demo?](#are-there-any-problems-with-architecture-evolution-demo)
 
 
 ## How many hours do videos take?
@@ -138,3 +139,28 @@ AWS have recently released a shortcut bare at the top of the console. If you wan
 ![Services](./images/services.png?raw=true "Services")
 - Click on the "star" beside the service and there you go. The services will be listed on your shortcut bar.
 ![Star](./images/listoservices.png?raw=true "List of Services")
+
+## Are there any problems with Architecture Evolution demo?
+Directly from the slack channel from a student: *I am trying to **manually** follow this demo ([AdvancedDemo] Architecture Evolution) in another AWS account and another zone. 
+I've created manualy the VPC, subnets, security groups, role(InstanceProfile) and parameter store variables, but is always failing at the first Launch Template 
+from Stage 2 and Wordpress is not getting installed. Stage 1 with the manual Wodpress installation is going well. I've spent a couple of days on this one now :) and 
+everything is pointing me to the 1-Click deployment from STEP1 that creates the base infrastructure and is hardcoded in that 1-Click deployment. I wonder what am I am 
+missing here? I saw that 1-Click deployment has some fixes related to IPV6 but I don't think that is the problem. It is possible to modify the Cloud Formation 1-Click 
+deployment to run in another region? I couldn't find anything in yaml file that set the region.*
+
+Snippets of the discussion (Adrians comments in bold, student in italics):
+
+- **Did you check the logs - they are in /var/log there will be cloud-init logs files**
+- **Remember just because the instance is provisioned doesn't mean the userdata has finished**
+- *logs shows that php install is still running...*
+- *took 3-5 more minute to finish after the instance was actually up*
+- **thats normal**
+- **thats why we use CFN creation policies/signals**
+- *but I learned so many things just trying to figure out the issue:)*
+- *it is easy to modify that 1-clik deployment to use another region or is more than that Yaml file ?*
+- **its easy if you know what to change**
+- **I stick to us-east-1 for a ton of reasons though**
+- **its the region which is always guarenteed to have all services**
+- **its the region all global services log to/bill to**
+- **so its the perfect one to use for study/non production workloads**
+
