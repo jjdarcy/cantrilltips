@@ -6,18 +6,19 @@ Please submit a PR to add or improve upon this FAQ.
 - [How many hours do Adrians videos take?](#how-many-hours-do-videos-take)
 - [How long does it take to complete SAA-C02 course?](#how-long-does-it-take-to-complete-saa-c02-course)
 - [Whats an aggressive but reasonable timeframe to complete all 3 associates?](#whats-an-aggressive-but-reasonable-timeframe-to-complete-all-3-associates)
-- [Why do I get an error creating accounts?](#why-do-i-get-an-error-creating-accounts)
+- [Why do I get an error creating accounts in an Organization?](#why-do-i-get-an-error-creating-accounts-in-an-organization)
 - [Whats Adrians Roadmap for new courses?](#whats-adrians-roadmap-for-new-courses)
 - [What is the best path to take through the AWS certifications?](#what-is-the-best-path-to-take-through-the-aws-certifications)
 - [Do I need to create new accounts for the course?](#do-i-need-to-create-new-accounts-for-the-course)
 - [Are my associate certifications renewed when I pass a professional certification?](#are-my-associate-certifications-renewed-when-i-pass-a-professional-certification)
 - [Can i download sessions for offline view?](#can-i-download-sessions-for-offline-view)
-- [Why are only 4 layers are covered in the network starter fundamentals?](#why-are-only-4-layers-are-covered-in-the-network-starter-fundamentals)
+- [Why are only 4 layers covered in the network starter fundamentals?](#why-are-only-4-layers-covered-in-the-network-starter-fundamentals)
 - [Are the slides of the course available?](#are-the-slides-of-the-course-available)
 - [Any ideas as to what applications should I write to help me learn?](#any-ideas-as-to-what-applications-should-i-write-to-help-me-learn)
 - [Do these courses help you get real jobs at the end?](#do-these-courses-help-you-get-real-jobs-at-the-end)
 - [Resetting course progress?](#resetting-course-progress)
 - [Is there a PDFF of the course?](#is-there-a-pdf-of-the-course)
+- [How do I populate my shortcuts bar?](#how-do-i-populate-my-shortcuts-bar)
 
 
 ## How many hours do videos take?
@@ -130,3 +131,10 @@ So very reasonably, Adrian has said "no". You could possibly log a support reque
 Qucik answer is "NO". The best way to learn anything is to take your own notes. This makes sure you understand the material in the course. All studies show that taking
 your own notes helps you understand what you are learning. See: https://www.lifehack.org/articles/featured/writing-and-remembering-why-we-remember-what-we-write.html
 There are learning aids in the Github repo but that is specific details and not a PDF of whats said in the course material. See README.md for how best to take notes. 
+
+## How do I populate my shortcuts bar?
+AWS have recently released a shortcut bare at the top of the console. If you want to create a shortcut to your most used services follow the below instructions:
+- Press services to list the most recently used services
+![Services](./images/services.png?raw=true "Services")
+- Click on the "star" beside the service and there you go. The services will be listed on your shortcut bar.
+![Star](./images/listoservices.png?raw=true "List of Services")
