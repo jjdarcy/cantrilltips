@@ -54,3 +54,5 @@ achieve above >90% score for a practice exam.
   * Setting up Teachable Accounts
 * https://lnkd.in/gPFKYB4M
   * Career change motivation article on LinkedIn
+* https://medium.com/@johnog65536/potential-aws-projects-326e14a2f8e3
+  * What AWS projects should we try to work with
