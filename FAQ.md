@@ -21,16 +21,15 @@ Please submit a PR to add or improve upon this FAQ.
 - [How do I populate my shortcuts bar?](#how-do-i-populate-my-shortcuts-bar)
 - [Are there any problems with Architecture Evolution demo?](#are-there-any-problems-with-architecture-evolution-demo)
 - [Whats the best study technique?](#whats-the-best-study-technique)
+- [Why is the answer not denied?](#why-is-the-answer-not-denied)
 
 
 ## How many hours do videos take?
-
 This question has been asked numerous times on [TechStudySlack](https://techstudyslack.com/). So much so, that a student Sherif Fanous created a Webapp, and also
 charts showing the overlap between courses. Check it out.
 You can find it here: https://cantrill.io.i-aws.cloud/
 
 ## How long does it take to complete SAA-C02 course?
-
 For most people you should budget 6-8 weeks with 1-2 hours study per day. Take all the fundamental lessons to get understanding of the basics in place before 
 continuing with the course. The videos are specifically put in an order to help you get the understanding and knowledge of the course.
 
@@ -40,18 +39,15 @@ in Adrian's courses starts with an organisational configuration as this is what 
 overlap, so after completing the first associate that is cut down by 60% for the other courses as he has designed for this overlap, 
 
 ## Why do I get an error creating accounts in an Organization
-
 An error "You have exceeded the allowed number of AWS accounts" is sometimes seen even though you are way below the quota maximum. There is a bug. It's been 
 around for some time now. It shows "10", but for new accounts the quota is actually set to "2". From discussions on [TechStudySlack](https://techstudyslack.com/)
 this error can resolve itself after some unknown/unspecified period. It grows to the displayed value of 10. Logging a ticket with AWS can help expedite this.
 
 ## What's Adrian's Roadmap for new courses?
-
 Adrian has put a notion site together which he keeps updated. 
 You can find it here: https://www.notion.so/96fc88a739dc45a59174f1acd8a96776?v=604d7bc7ed9744e1982ef257273d44f9 
 
 ## What is the best path to take through the AWS certifications?
-
 Best answer is "It depends" on the role you are going for :-) The certs are divided into Associate and Professional. The specialities are also considered 
 Professional. For most people wanting to work with AWS, it's best to take the Solutions Architect - Associate (SAA-C02) first to give you the broadest knowledge 
 of AWS. Then you can take the other associates; Developer (DVA-01) and SysOps (SOA-C02) or go directly to the Solutions Architect - Professional (SAP-C01) if you
@@ -62,20 +58,17 @@ If you do get the SAP-C01, its also a good idea to take the AWS Certified Securi
 covered already in Adrian's SAP-C01 course (with extra reading on AWS KMS). Then the rest of the specialties can be taken in any order. 
 
 ## Do I need to create new accounts for the course?
-
 Yes. Create new accounts for each course you take. THIS IS VERY IMPORTANT. 
 Accounts in AWS are disposable and give you the permission boundary needed to contain your labs, etc. Don't use sandbox accounts or
 existing accounts either as they might have password policies and other contraints that will give you problems during the course. Take the time to create new 
 accounts. It will make your life easier :-)
 
 ## Are my associate certifications renewed when I pass a professional certification?
-
 As soon as you pass a Professional exam, the relevant **ACTIVE** associate certifications are automatically renewed. If you pass the DevOps Professional 
 certification, then both Dev Associate and SysOps Associate are renewed instantly. If you pass the Architect Professional certification, then Architect 
 Associate is renewed. 
 
 ## Can I download sessions for offline view?
-
 There is no "offline" or download function available as such. However, if you use the Teachable IOS app from the Apple App Store you can download videos and
 listen/see them offline. I use it when travelling or when out walking/running to refresh some courses. The Teachable setup is not very user friendly, so patience
 is required :-) You need to create a teachable account and link your cantrill.io account to it to be able to access it. See this link for details:
@@ -83,13 +76,11 @@ https://support.teachable.com/hc/en-us/articles/236078487-Teachable-Accounts
 At the time of writing, there is no Android equivalent. 
 
 ## Why are only 4 layers covered in the network starter fundamentals?
-
 Layers 5 (SESSION), 6 (PRESENTATION) and 7 (APPLICATION). The application layer is something you organically learn (HTTP/S etc) and the presentation and session
 layers are covered intrinsically throughout the course. The 1-4 layers are the ones that need to be covered in isolation and you get to understand the rest as
 you go through the course.  
 
 ## Are the slides of the course available?
-
 Short answer "no". The reasoning behind this is that you need to learn and understand the architecture by going though the course material understanding bit by
 bit on all visuals. On the associated github under https://github.com/acantril you will find a 00_LearningAids folder under some of the topics where a png
 version of the visuals is available. 
@@ -169,3 +160,9 @@ Snippets of the discussion (Adrians comments in bold, student in italics):
 There is really no "one size fits all" here, but probably the best study technique is `read/watch => understand => compress => write => revisit`
 This is the key to storing to long term memory. And write here means `take your own notes`. Some students like flash cards. These are good as long as you create them 
 yourself and not use other peoples. Using other peoples means you only remember things. creating them, means you go through a process which encourages understanding. 
+
+## Why is the answer not denied?
+![Star](./images/crossaccpol.png?raw=true "TutDoJo Question")
+
+Remember SCPs only affect identities and as the identity is not in the same account as the SCP, the resource policy on the bucket allows the account the identity is in
+The identity policy allows access to S3, so access is allowed. 
