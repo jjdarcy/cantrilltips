@@ -164,5 +164,5 @@ yourself and not use other peoples. Using other peoples means you only remember 
 ## Why is the answer not denied?
 ![Star](./images/crossaccpol.png?raw=true "TutDoJo Question")
 
-Remember SCPs only affect identities and as the identity is not in the same account as the SCP, the resource policy on the bucket allows the account the identity is in
-The identity policy allows access to S3, so access is allowed. 
+Remember SCPs only affect identities in that account. The identity is not in the same account as the SCP. The resource policy on the bucket allows the account the 
+identity is in to access. The identity policy allows access to S3, so access is allowed. 
