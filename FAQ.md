@@ -20,7 +20,7 @@ Please submit a PR to add or improve upon this FAQ.
 - [Is there a PDFF of the course?](#is-there-a-pdf-of-the-course)
 - [How do I populate my shortcuts bar?](#how-do-i-populate-my-shortcuts-bar)
 - [Are there any problems with Architecture Evolution demo?](#are-there-any-problems-with-architecture-evolution-demo)
-- [Whats the best studt technique?](#whats-the-best-study-technique)
+- [Whats the best study technique?](#whats-the-best-study-technique)
 
 
 ## How many hours do videos take?
