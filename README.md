@@ -58,3 +58,5 @@ achieve above >90% score for a practice exam.
   * Potential AWS projects 
 * https://medium.com/@johnog65536/disaster-recovery-in-the-cloud-90ae8a54b94b
   * Disaster / Recovery in the cloud
+* https://medium.com/@johnog65536/how-to-prep-for-the-aws-security-speciality-exam-1b88a9405b5e
+  * How to prepare for the AWS Security Speciality exam.
