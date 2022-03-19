@@ -39,6 +39,8 @@ Must be your words.
 This can take a long time, but is way more effective than just sitting the paper and looking which you got right/wrong. You should keep doing this until you
 achieve above >90% score for a practice exam.
 
+Don't bother using exam dump sites, aside from it being cheating and aainst the AWS exam policy, it's just not effective. The questions are full of errors, and the supposed correct answers are frequently nonsense, meaning these questions actually harm your understanding. Even if they were somehow accurate (they arent) if you cheat your way to a pass, you will most certainly get laughed out of any professional interview within minutes. So it's just not worth it.
+
 ## Useful Links
 * https://cantrill.io.i-aws.cloud/
   * Lesson and section duration of Adrian's courses, course overlap. Created by a student.
