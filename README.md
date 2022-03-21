@@ -64,3 +64,5 @@ Don't bother using exam dump sites, aside from it being cheating and aainst the 
   * Disaster / Recovery in the cloud
 * https://medium.com/@johnog65536/how-to-prep-for-the-aws-security-speciality-exam-1b88a9405b5e
   * How to prepare for the AWS Security Speciality exam.
+* https://medium.com/@johnog65536/how-to-land-a-first-job-in-the-cloud-d42e6ad4544a
+  * How to land your first job in the cloud 
