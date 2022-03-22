@@ -7,7 +7,7 @@ most effective ways you can use Adrian's courses to succeed in your studies. The
 
 ## Process
 * Focus only on quality. Concise quality and full understanding
-* Beware the risk of passivley watching video after video, you need to focus on UNDERSTANDINGF not watching, see https://www.coursera.org/learn/learning-how-to-learn for more (free) advice on how to learn (from professors of neuroscience) 
+* Beware the risk of passivley watching video after video, you need to focus on UNDERSTANDING not watching, see https://www.coursera.org/learn/learning-how-to-learn for more (free) advice on how to learn (from professors of neuroscience) 
 * Everything is about maximising the effectiveness not the quantity
 * Study smarter and not harder. Sleep. Take breaks. Short notes, very few screenshots. If procrastination is a thing (it will be) google "Tim Urban TED" and pomodoro technique to FOCUS
 * Do lots of lab exercises - practise what you’ve just watched, in different ways, experiment and break then fix things.
