@@ -44,7 +44,7 @@ This can take a long time, but is way more effective than just sitting the paper
 Don't bother using exam dump sites, aside from it being cheating and aainst the AWS exam policy, it's just not effective. The questions are full of errors, and the supposed correct answers are frequently nonsense, meaning these questions actually harm your understanding. Even if they were somehow accurate (they arent) if you cheat your way to a pass, you will most certainly get laughed out of any professional interview within minutes. So it's just not worth it.
 
 ## Useful Links
-# The Course
+### The Course
 * https://cantrill.io.i-aws.cloud/
   * Lesson and section duration of Adrian's courses, course overlap. Created by a student.
   * Beware however, there is a difference between time taken to watch a video, and time taken to understand it or to complete the lab
@@ -59,7 +59,7 @@ Don't bother using exam dump sites, aside from it being cheating and aainst the 
 * https://support.teachable.com/hc/en-us/articles/236078487-Teachable-Accounts
   * Setting up Teachable Accounts
   
-# How to learn more effectivley 
+### How to learn more effectivley 
 * https://www.lifehack.org/articles/featured/writing-and-remembering-why-we-remember-what-we-write.html
   * Blogpost: **Why we remember what we write**
 * https://www.coursera.org/learn/learning-how-to-learn
@@ -75,7 +75,7 @@ Don't bother using exam dump sites, aside from it being cheating and aainst the 
   * See also: https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html
   * and: https://waitbutwhy.com/2013/11/how-to-beat-procrastination.html 
   
-# Career stuff
+### Career stuff
 * https://lnkd.in/gPFKYB4M
   * Career change motivation article on LinkedIn
 * https://medium.com/@johnog65536/potential-aws-projects-326e14a2f8e3
@@ -89,7 +89,7 @@ Don't bother using exam dump sites, aside from it being cheating and aainst the 
 * https://www.amazon.jobs/en/principles
   * AWS are really into their leadership principles, and you should be able to talk about living those principles using the STAR method (https://interviewsteps.com/blogs/news/amazon-star-method) for any interview 
   
-# Other stuff
+### Other stuff
 * https://medium.com/@johnog65536/disaster-recovery-in-the-cloud-90ae8a54b94b
   * Disaster / Recovery in the cloud
 * https://medium.com/p/26fdb39c2255
