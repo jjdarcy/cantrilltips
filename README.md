@@ -66,3 +66,7 @@ Don't bother using exam dump sites, aside from it being cheating and aainst the 
   * How to prepare for the AWS Security Speciality exam.
 * https://medium.com/@johnog65536/how-to-land-a-first-job-in-the-cloud-d42e6ad4544a
   * How to land your first job in the cloud 
+* https://www.coursera.org/lecture/learning-how-to-learn/2-5-illusions-of-competence-BuFzf
+  * Fantastic video about learning about learning
+* https://youtu.be/IlU-zDU6aQ0
+  * Longer video about effecient studying. 
