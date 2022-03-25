@@ -58,6 +58,8 @@ Don't bother using exam dump sites, aside from it being cheating and aainst the 
   * Read this to understand if you are ready to progress to Pro level
 * https://support.teachable.com/hc/en-us/articles/236078487-Teachable-Accounts
   * Setting up Teachable Accounts
+* https://www.linkedin.com/pulse/fake-certs-what-why-theyre-bad-adrian-cantrill/
+  * Fake certs - what are they and why are they bad
   
 ### How to learn more effectivley 
 * https://www.lifehack.org/articles/featured/writing-and-remembering-why-we-remember-what-we-write.html
