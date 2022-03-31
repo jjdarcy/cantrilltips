@@ -181,3 +181,5 @@ logged to both Management and member accounts). The role that is assumed is one 
 to. Following this you will see a signin:ConsoleLogin event with an userIdentity.type of AssumedRole (the role is the AWS SSO service-role matching the PermissionSet).
 
 You may also see sso:GetRoleCredentials instead of sso:Federate. This is the mechanism that generates the short-lived API tokens from the SSO portal.
+
+Also see https://aws.amazon.com/blogs/security/aws-cloudtrail-now-logs-aws-management-console-sign-in-events/ 
