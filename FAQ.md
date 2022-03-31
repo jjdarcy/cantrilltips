@@ -22,7 +22,7 @@ Please submit a PR to add or improve upon this FAQ.
 - [Are there any problems with Architecture Evolution demo?](#are-there-any-problems-with-architecture-evolution-demo)
 - [Whats the best study technique?](#whats-the-best-study-technique)
 - [Why is the answer not denied?](#why-is-the-answer-not-denied)
-- [How does AWS SSO work in the background?](#how-does-aws-sso-work-in-the-background)
+- [What are the AWS IAM permissions on a ConsoleSignIn event?](#what-are-the-aws-iam-permissions-on-a-consolelogin-event)
 
 
 ## How many hours do videos take?
@@ -168,7 +168,7 @@ yourself and not use other peoples. Using other peoples means you only remember 
 Remember SCPs only affect identities in that account. The identity is not in the same account as the SCP. The resource policy on the bucket allows the account the 
 identity is in to access. The identity policy allows access to S3, so access is allowed. 
 
-## What are the AWS IAM permissions are on a ConsoleSignIn event?
+## What are the AWS IAM permissions on a ConsoleLogin event?
 You can't deny a ConsoleSignIn event. For example if you put a deny all policy on an IAM user they can still login. They can't see or do anything.
 
 So how does AWS SSO work in the backend you may ask. 
