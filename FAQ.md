@@ -22,6 +22,7 @@ Please submit a PR to add or improve upon this FAQ.
 - [Are there any problems with Architecture Evolution demo?](#are-there-any-problems-with-architecture-evolution-demo)
 - [Whats the best study technique?](#whats-the-best-study-technique)
 - [Why is the answer not denied?](#why-is-the-answer-not-denied)
+- [How does AWS SSO work in the background?](#how-does-aws-sso-work-in-the-background)
 
 
 ## How many hours do videos take?
@@ -166,3 +167,17 @@ yourself and not use other peoples. Using other peoples means you only remember 
 
 Remember SCPs only affect identities in that account. The identity is not in the same account as the SCP. The resource policy on the bucket allows the account the 
 identity is in to access. The identity policy allows access to S3, so access is allowed. 
+
+## What are the AWS IAM permissions are on a ConsoleSignIn event?
+You can't deny a ConsoleSignIn event. For example if you put a deny all policy on an IAM user they can still login. They can't see or do anything.
+
+So how does AWS SSO work in the backend you may ask. 
+AWS SSO drops you into a role in an Account. AWS SSO manages SAML providers that get auto-provisioned in your AWS accounts. AWS SSO also auto-provisions 
+service-roles that match your Permission Sets that you have configured within AWS SSO.
+
+In AWS SSO you may see a signin:UserAuthentication event in your Management AWS account. Within the Management AWS Account you will also see a sso:Authenticate event
+entering the SSO system. Then there will be an sso:Federate call leaving SSO environment. In the member account you will then see a sts:AssumeRoleWithSAML (likely 
+logged to both Management and member accounts). The role that is assumed is one of the provisioned roles that the assigned PermissionSets within AWS SSO grants access 
+to. Following this you will see a signin:ConsoleLogin event with an userIdentity.type of AssumedRole (the role is the AWS SSO service-role matching the PermissionSet).
+
+You may also see sso:GetRoleCredentials instead of sso:Federate. This is the mechanism that generates the short-lived API tokens from the SSO portal.
