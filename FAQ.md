@@ -23,6 +23,7 @@ Please submit a PR to add or improve upon this FAQ.
 - [Whats the best study technique?](#whats-the-best-study-technique)
 - [Why is the answer not denied?](#why-is-the-answer-not-denied)
 - [What are the AWS IAM permissions on a ConsoleSignIn event?](#what-are-the-aws-iam-permissions-on-a-consolelogin-event)
+- [Any good Linux courses?](#any-good-linux-courses)
 
 
 ## How many hours do videos take?
@@ -183,3 +184,15 @@ to. Following this you will see a signin:ConsoleLogin event with an userIdentity
 You may also see sso:GetRoleCredentials instead of sso:Federate. This is the mechanism that generates the short-lived API tokens from the SSO portal.
 
 Also see https://aws.amazon.com/blogs/security/aws-cloudtrail-now-logs-aws-management-console-sign-in-events/ 
+
+## Any good Linux courses?
+* Free
+  * https://www.youtube.com/c/LearnLinuxtv/playlists
+  * https://blog.feedspot.com/linux_blogs/
+  * https://linux-training.be/
+  * https://www.server-world.info/en/
+* Non-Free
+  * Udemy: Linux Administration: The Complete Linux Bootcamp for 2022, Andrei Dimitrescu
+  * LinkedIn Learning - All from Grant McWilliams
+  * Cisco’s -  NDG Linux Essentials, and NDG Linux I, and II which indeed covers LPIC
+  * https://www.edx.org/search?q=linux
