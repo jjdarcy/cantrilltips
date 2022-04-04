@@ -24,6 +24,7 @@ Please submit a PR to add or improve upon this FAQ.
 - [Why is the answer not denied?](#why-is-the-answer-not-denied)
 - [What are the AWS IAM permissions on a ConsoleSignIn event?](#what-are-the-aws-iam-permissions-on-a-consolelogin-event)
 - [Any good Linux courses?](#any-good-linux-courses)
+- [Any good resources to use when coding CloudFormation?](#any-good-resources-to-use-when-coding-cloudformation)
 
 
 ## How many hours do videos take?
@@ -196,3 +197,10 @@ Also see https://aws.amazon.com/blogs/security/aws-cloudtrail-now-logs-aws-manag
   * LinkedIn Learning - All from Grant McWilliams
   * Cisco’s -  NDG Linux Essentials, and NDG Linux I, and II which indeed covers LPIC
   * https://www.edx.org/search?q=linux
+
+## Any good resources to use when coding CloudFormation?
+Going through Adrians course and examining the templates he uses is a great wy to understand CloudFormation. Also there are some good places to get sample templates and of course the referance pages. Some good sites to bookmark:
+* https://github.com/aws-cloudformation/aws-cloudformation-samples
+* https://github.com/awslabs/aws-cloudformation-templates
+* https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/CHAP_TemplateQuickRef.html
+* https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html
