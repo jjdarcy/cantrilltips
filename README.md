@@ -62,6 +62,8 @@ Don't bother using exam dump sites, aside from it being cheating and aainst the 
   * Fake certs - what are they and why are they bad
   
 ### How to learn more effectivley 
+* https://www.linkedin.com/pulse/fake-certs-what-why-theyre-bad-adrian-cantrill/?trackingId=mhPRoSGnRSmICZyG%2BG3a%2BA%3D%3D
+  * “Fake Certs” are bad for employers, they’re a risk for any projects you work on, and they negatively impact your career. 
 * https://www.lifehack.org/articles/featured/writing-and-remembering-why-we-remember-what-we-write.html
   * Blogpost: **Why we remember what we write**
 * https://www.coursera.org/learn/learning-how-to-learn
