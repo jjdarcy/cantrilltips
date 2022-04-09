@@ -2,8 +2,7 @@
 Some tips for using Adrian Cantrill's courses on https://learn.cantrill.io/. Submit a PR to add or improve upon this repository.
 
 ## Introduction
-This site gathers many of the questions asked on the [TechStudySlack](https://techstudyslack.com/) workspace to help the community find answers and help them study effectively. There are many questions on the [TechStudySlack](https://techstudyslack.com/) community asking how to study efficiently for an AWS exams. This site 
-gathers the most effective ways you can use Adrian's courses to succeed in your studies. These tips will be improved upon over time. 
+This site gathers many of the questions asked on the [TechStudySlack](https://techstudyslack.com/) workspace to help the community find answers and help them study effectively. 
 
 * Read the [FAQ](FAQ.md)
 
@@ -29,7 +28,6 @@ exams.
 Here you can find good tips about applying for a job with AWS and also some interview questions
 
 * Useful Links
-See some useful links:
   * [The Course](tips/the_course.md) 
   * [How to learn more effectivley](tips/learn_links.md) 
   * [Career stuff](tips/career_links.md)
