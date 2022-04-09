@@ -5,6 +5,7 @@ Some tips for using Adrian Cantrill's courses on https://learn.cantrill.io/. Sub
 This site gathers many of the questions asked on the [TechStudySlack](https://techstudyslack.com/) workspace to help the community find answers and help them study effectively. 
 
 * Read the [FAQ](FAQ.md)
+Frequently asked questions on the slack workspace. Some questions are asked multiple times others are pasted from conversations on the workspace. Please add a PR if you think something is missing
 
 * [The most effetive process](tips/process.md) for studying
 Its very important to adopt the correct process for your studies.
