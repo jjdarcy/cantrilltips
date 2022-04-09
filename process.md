@@ -1,4 +1,5 @@
 # Process
+
 * Focus only on quality. Concise quality and full understanding
 * Beware the risk of passivley watching video after video, you need to focus on UNDERSTANDING not watching, see https://www.coursera.org/learn/learning-how-to-learn for more (free) advice on how to learn (from professors of neuroscience) 
 * Everything is about maximising the effectiveness not the quantity
