@@ -1,5 +1,7 @@
 # Taking notes
 
+It is **REALY REALY** important to take your own notes. This is how you learn. 
+
 There are typically 2 types of note takers:
 * `Short and punchy`, with a focus on linking concepts together, and contrasting similar services - all summarised in your own words
 * `Really verbose`, almost transcripts of the course / documents, in the original author's words
