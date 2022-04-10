@@ -8,16 +8,16 @@ This site gathers many of the questions asked on the [TechStudySlack](https://te
 Frequently asked questions on the slack workspace. Some questions are asked multiple times others are pasted from conversations on the workspace. Please add a PR if you think something is missing
 
 * [The most effetive process](tips/process.md) for studying  
-Its very important to adopt the correct process for your studies.
-Make a consious decision to gain knowledge and not just rush through to get a certification.
-Certification is a by-product of these courses. The important thing is to learn and gain skills
-Make a plan for what you want to achieve and stick to it. 
+Its very important to adopt the correct process for your studies.  
+Make a consious decision to gain knowledge and not just rush through to get a certification.  
+Certification is a by-product of these courses. The important thing is to learn and gain skills  
+[Make a plan](https://github.com/jjdarcy/cantrilltips/blob/main/tips/process.md#make-a-plan) for what you want to achieve and stick to it. 
 
 * [Taking Notes while you study](tips/taking_notes.md)  
-The only true way to learn and retain information is to take notes.
-If you are not taking notes you are not learning.
-The process of taking your own notes is how you learn.
-Do NOT used other peoples notes.
+The only true way to learn and retain information is to take notes.  
+If you are not taking notes you are not learning.  
+The process of taking your own notes is how you learn.  
+Do NOT used other peoples notes.  
 Focus on understanding a lesson. Then rationalise your understanding. Compress it. And note it.
 
 * [Practice Exams](tips/practice_exams.md) (Use tutorialsdojo.com)  
