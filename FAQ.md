@@ -3,25 +3,32 @@ This FAQ gathers many of the questions asked on https://learn.cantrill.io/ so th
 You can add questions by replacing the "Question x" with your question and writing the anchor replacing spaces with -. Then just add the answer underneath. 
 Please submit a PR to add or improve upon this FAQ.
 
+## The Course
 - [How many hours do Adrians videos take?](#how-many-hours-do-videos-take)
 - [How long does it take to complete SAA-C02 course?](#how-long-does-it-take-to-complete-saa-c02-course)
 - [Whats an aggressive but reasonable timeframe to complete all 3 associates?](#whats-an-aggressive-but-reasonable-timeframe-to-complete-all-3-associates)
-- [Why do I get an error creating accounts in an Organization?](#why-do-i-get-an-error-creating-accounts-in-an-organization)
 - [Whats Adrians Roadmap for new courses?](#whats-adrians-roadmap-for-new-courses)
-- [What is the best path to take through the AWS certifications?](#what-is-the-best-path-to-take-through-the-aws-certifications)
 - [Do I need to create new accounts for the course?](#do-i-need-to-create-new-accounts-for-the-course)
-- [Are my associate certifications renewed when I pass a professional certification?](#are-my-associate-certifications-renewed-when-i-pass-a-professional-certification)
-- [Can i download sessions for offline view?](#can-i-download-sessions-for-offline-view)
-- [Why are only 4 layers covered in the network starter fundamentals?](#why-are-only-4-layers-covered-in-the-network-starter-fundamentals)
 - [Are the slides of the course available?](#are-the-slides-of-the-course-available)
-- [Any ideas as to what applications should I write to help me learn?](#any-ideas-as-to-what-applications-should-i-write-to-help-me-learn)
-- [Do these courses help you get real jobs at the end?](#do-these-courses-help-you-get-real-jobs-at-the-end)
+- [Can i download sessions for offline view?](#can-i-download-sessions-for-offline-view)
 - [Resetting course progress?](#resetting-course-progress)
 - [Is there a PDFF of the course?](#is-there-a-pdf-of-the-course)
-- [How do I populate my shortcuts bar?](#how-do-i-populate-my-shortcuts-bar)
-- [Are there any problems with Architecture Evolution demo?](#are-there-any-problems-with-architecture-evolution-demo)
+
+## Study
 - [Whats the best study technique?](#whats-the-best-study-technique)
-- [Why is the answer not denied?](#why-is-the-answer-not-denied)
+- [Are there any problems with Architecture Evolution demo?](#are-there-any-problems-with-architecture-evolution-demo)
+- [Any ideas as to what applications should I write to help me learn?](#any-ideas-as-to-what-applications-should-i-write-to-help-me-learn)
+- [Do these courses help you get real jobs at the end?](#do-these-courses-help-you-get-real-jobs-at-the-end)
+
+## Certifications
+- [What is the best path to take through the AWS certifications?](#what-is-the-best-path-to-take-through-the-aws-certifications)
+- [Are my associate certifications renewed when I pass a professional certification?](#are-my-associate-certifications-renewed-when-i-pass-a-professional-certification)
+
+## Miscellaenous
+- [Why do I get an error creating accounts in an Organization?](#why-do-i-get-an-error-creating-accounts-in-an-organization)
+- [Why are only 4 layers covered in the network starter fundamentals?](#why-are-only-4-layers-covered-in-the-network-starter-fundamentals)
+- [How do I populate my shortcuts bar?](#how-do-i-populate-my-shortcuts-bar)
+- [Cross account permissions on buckets - Why is the answer not denied?](#why-is-the-answer-not-denied)
 - [What are the AWS IAM permissions on a ConsoleSignIn event?](#what-are-the-aws-iam-permissions-on-a-consolelogin-event)
 - [Any good Linux courses?](#any-good-linux-courses)
 - [Any good resources to use when coding CloudFormation?](#any-good-resources-to-use-when-coding-cloudformation)
