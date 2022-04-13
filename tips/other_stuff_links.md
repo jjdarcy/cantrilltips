@@ -9,3 +9,5 @@
   * Werner Vogels on building scalabale and robust distributed systems
 * https://aws.amazon.com/blogs
   * Gathering of AWS Blogs
+* https://workshops.aws/
+  * Hands-on workshops for different topics
