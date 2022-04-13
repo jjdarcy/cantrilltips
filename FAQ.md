@@ -12,7 +12,7 @@ Please submit a PR to add or improve upon this FAQ.
 - [Are the slides of the course available?](#are-the-slides-of-the-course-available)
 - [Can i download sessions for offline view?](#can-i-download-sessions-for-offline-view)
 - [Resetting course progress?](#resetting-course-progress)
-- [Is there a PDFF of the course?](#is-there-a-pdf-of-the-course)
+- [Is there a PDF of the course?](#is-there-a-pdf-of-the-course)
 
 ## Study
 - [Whats the best study technique?](#whats-the-best-study-technique)
