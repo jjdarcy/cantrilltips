@@ -14,6 +14,7 @@ Please submit a PR to add or improve upon this FAQ.
 - [Resetting course progress?](#resetting-course-progress)
 - [Is there a PDF of the course?](#is-there-a-pdf-of-the-course)
 - [Why is the answer 177 IPs in a slash 24 network?](#why-is-the-answer-177-ips-in-a-slash-24-network)
+- [Is there a discount or bundle discount for the courses?](#is-there-a-discount-or-bundle-discount-for-the-courses)
 
 ## Study
 - [Whats the best study technique?](#whats-the-best-study-technique)
@@ -218,15 +219,20 @@ This a question that turns up a lot on the slack channel. Finally, got around to
 The question is:
 You have a VPC which uses the CIDR of 10.0.0.0/24. This is split into 3 subnets, 1 in each Availability zone. How many total usable IPs are available in the three subnets in total?
 
-First of, the intention of this question is to get you thinking about subnetting and CIDRs to ensure you have understod it correctly.  
-Its best practice to split the CIDR into subnets of equal sizes. But, then you might say, its fne in multiples of 2 but what if I want 3. How do I do that?  
-Basically, you have 2 choices; 1) split into 2, then 2 again (for a total of 4) and then discard one or 2) split into 2, and split one of those 2 into 2 (total of 1 bigger one, and 2 smaller)  
+I'll try to get you thinking, so that you can work it out and understand yourself. Understanding subnetting and CIDRs is essential for moving forward.     
+
+Think how to determine the start point of a CIDR range. Take the IP 10.0.0.0 as in the question. What are all the valid subnets and ranges from this IP. Take this diagram:  
+![Ranges](./images/ranges.png?raw=true "Ranges")
+As you can see from the diagram, that a /24 can not be broken into 3 even parts as the start and end ranges wont work. It would have to go into 4 /26s with 1 spare or a /25 and 2 /26s and put up with uneven sizes.  
 
 Have a look at the illustration Adrian has in the course:  
 ![Subnetting](./images/subnetting.png?raw=true "Subnetting")
 
-> The answer to the question is therefore:
-> Split the /24 VPC up into equal portions of 3x/26.   
-> This gives you 3x(64-5) usable IPs = 177.  
-> The 64-5 means that you subtract the 5 reserved IPs AWS have in every subnet, giving 3x59, which equals 177
+> Remember there are 5 reserved AWS IPs in any subnet. 
 
+## Is there a discount or bundle discount for the courses?
+Quote from Adrian:  
+>"I want to make sure you're getting maximum value from https://learn.cantrill.io.  
+>Whatever you've enrolled in, you can always upgrade to a bundle or a larger bundle by paying the difference.  
+>Just use our support form ( https://learncantrill.zendesk.com/hc/en-us/requests/new ).  
+>Let us know the email you registered with, what content you own, and what bundle you want, and we'll get you a personal upgrade link sent ASAP."
