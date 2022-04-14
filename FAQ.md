@@ -223,7 +223,7 @@ Its best practice to split the CIDR into subnets of equal sizes. But, then you m
 Basically, you have 2 choices; 1) split into 2, then 2 again (for a total of 4) and then discard one or 2) split into 2, and split one of those 2 into 2 (total of 1 bigger one, and 2 smaller)  
 
 Have a look at the illustration Adrian has in the course:  
-![Star](./images/images(6).png?raw=true "IP Subnetting")
+![Subnetting](./images/subnetting.png?raw=true "Subnetting")
 
 > The answer to the question is therefore:
 > Split the /24 VPC up into equal portions of 3x/26.   
