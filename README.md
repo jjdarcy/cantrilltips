@@ -7,7 +7,7 @@ This site gathers many of the questions asked on the [TechStudySlack](https://te
 * Read the [FAQ](FAQ.md)  
 Frequently asked questions on the slack workspace. Some questions are asked multiple times others are pasted from conversations on the workspace. Please add a PR if you think something is missing
 
-* [The most effetive process](tips/process.md) for studying  
+* [The most effective process](tips/process.md) for studying  
 Its very important to adopt the correct process for your studies.  
 Make a consious decision to gain knowledge and not just rush through to get a certification.  
 Certification is a by-product of these courses. The important thing is to learn and gain skills  
