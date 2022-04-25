@@ -2,6 +2,8 @@
 
 It is **REALLY REALLY** important to take your own notes. This is how you learn. 
 
+The best way to remember things as you write is to use a pen and paper. 
+
 There are typically 2 types of note takers:
 * `Short and punchy`, with a focus on linking concepts together, and contrasting similar services - all summarised in your own words
 * `Really verbose`, almost transcripts of the course / documents, in the original author's words
