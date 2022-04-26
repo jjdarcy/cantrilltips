@@ -4,17 +4,32 @@ You can add questions by replacing the "Question x" with your question and writi
 Please submit a PR to add or improve upon this FAQ.
 
 ## The Course
-- [How many hours do Adrians videos take?](#how-many-hours-do-videos-take)
-- [How long does it take to complete SAA-C02 course?](#how-long-does-it-take-to-complete-saa-c02-course)
-- [Whats an aggressive but reasonable timeframe to complete all 3 associates?](#whats-an-aggressive-but-reasonable-timeframe-to-complete-all-3-associates)
-- [Whats Adrians Roadmap for new courses?](#whats-adrians-roadmap-for-new-courses)
-- [Do I need to create new accounts for the course?](#do-i-need-to-create-new-accounts-for-the-course)
-- [Are the slides of the course available?](#are-the-slides-of-the-course-available)
-- [Can i download sessions for offline view?](#can-i-download-sessions-for-offline-view)
-- [Resetting course progress?](#resetting-course-progress)
-- [Is there a PDF of the course?](#is-there-a-pdf-of-the-course)
-- [Why is the answer 177 IPs in a slash 24 network?](#why-is-the-answer-177-ips-in-a-slash-24-network)
-- [Is there a discount or bundle discount for the courses?](#is-there-a-discount-or-bundle-discount-for-the-courses)
+<!-- no toc -->
+- [Frequently Asked Questions](#frequently-asked-questions)
+  - [How many hours do videos take?](#how-many-hours-do-videos-take)
+  - [How long does it take to complete the SAA-C02 course?](#how-long-does-it-take-to-complete-the-saa-c02-course)
+  - [What's an aggressive, but reasonable timeframe to complete all 3 associates?](#whats-an-aggressive-but-reasonable-timeframe-to-complete-all-3-associates)
+  - [Why do I get an error creating accounts in an AWS Organization?](#why-do-i-get-an-error-creating-accounts-in-an-aws-organization)
+  - [What's Adrian's Roadmap for new courses?](#whats-adrians-roadmap-for-new-courses)
+  - [What is the best path to take through the AWS certifications?](#what-is-the-best-path-to-take-through-the-aws-certifications)
+  - [Do I need to create new accounts for the course?](#do-i-need-to-create-new-accounts-for-the-course)
+  - [Are my associate certifications renewed when I pass a professional certification?](#are-my-associate-certifications-renewed-when-i-pass-a-professional-certification)
+  - [Can I download sessions for offline view?](#can-i-download-sessions-for-offline-view)
+  - [Why are only 4 layers covered in the network starter fundamentals?](#why-are-only-4-layers-covered-in-the-network-starter-fundamentals)
+  - [Are the slides of the course available?](#are-the-slides-of-the-course-available)
+  - [Any ideas as to what applications I should write to help me learn?](#any-ideas-as-to-what-applications-i-should-write-to-help-me-learn)
+  - [Do these courses help you get real jobs at the end?](#do-these-courses-help-you-get-real-jobs-at-the-end)
+  - [Resetting course progress?](#resetting-course-progress)
+  - [Is there a PDF of the course?](#is-there-a-pdf-of-the-course)
+  - [How do I populate my shortcuts bar in the AWS Console?](#how-do-i-populate-my-shortcuts-bar-in-the-aws-console)
+  - [Are there any problems with Architecture Evolution demo?](#are-there-any-problems-with-architecture-evolution-demo)
+  - [Whats the best study technique?](#whats-the-best-study-technique)
+  - [Why is the answer not denied?](#why-is-the-answer-not-denied)
+  - [What are the AWS IAM permissions on a ConsoleLogin event?](#what-are-the-aws-iam-permissions-on-a-consolelogin-event)
+  - [Any good Linux courses?](#any-good-linux-courses)
+  - [Any good resources to use when coding CloudFormation?](#any-good-resources-to-use-when-coding-cloudformation)
+  - [Why is the answer 177 IPs in a slash 24 network](#why-is-the-answer-177-ips-in-a-slash-24-network)
+  - [Is there a discount or bundle discount for the courses?](#is-there-a-discount-or-bundle-discount-for-the-courses)
 
 ## Study
 - [Whats the best study technique?](#whats-the-best-study-technique)
@@ -37,37 +52,50 @@ Please submit a PR to add or improve upon this FAQ.
 
 
 ## How many hours do videos take?
-This question has been asked numerous times on [TechStudySlack](https://techstudyslack.com/). So much so, that a student Sherif Fanous created a Webapp, and also
-charts showing the overlap between courses. Check it out.
+This question has been asked numerous times on [TechStudySlack](https://techstudyslack.com/). So much so, that a student Sherif Fanous created a Webapp, and also charts showing the overlap between courses. Check it out.
+
 You can find it here: https://cantrill.io.i-aws.cloud/
 
-## How long does it take to complete SAA-C02 course?
-For most people you should budget 6-8 weeks with 1-2 hours study per day. Take all the fundamental lessons to get understanding of the basics in place before 
-continuing with the course. The videos are specifically put in an order to help you get the understanding and knowledge of the course.
+## How long does it take to complete the SAA-C02 course?
+For most people you should budget 6-8 weeks of your time with around 1-2 hours study per day. 
 
-## What's an aggressive but reasonable timeframe to complete all 3 associates?
-The average is 6-8 weeks given 1-2 hours a day per exam. It all depends on your skill level and how much you are focussing on learning versus passing. The setup
-in Adrian's courses starts with an organisational configuration as this is what people see in their workplaces also. Adrians courses are also designed to 
-overlap, so after completing the first associate that is cut down by 60% for the other courses as he has designed for this overlap, 
+> ⚠️ Make sure **not** to skip any of the fundamental lessons to get a good understanding of the basics! See Adrian's linkedin post about [focusing on fundamentals](https://www.linkedin.com/posts/adriancantrill_a-friend-of-mine-derek-morgan-just-wrote-activity-6922425127859077120-Od7z?utm_source=linkedin_share&utm_medium=member_desktop_web).
 
-## Why do I get an error creating accounts in an Organization
-An error "You have exceeded the allowed number of AWS accounts" is sometimes seen even though you are way below the quota maximum. There is a bug. It's been 
-around for some time now. It shows "10", but for new accounts the quota is actually set to "2". From discussions on [TechStudySlack](https://techstudyslack.com/)
-this error can resolve itself after some unknown/unspecified period. It grows to the displayed value of 10. Logging a ticket with AWS can help expedite this.
+The videos were specifically put in an order that will help ease you into the more complicated topics as you go through the course.
+
+
+## What's an aggressive, but reasonable timeframe to complete all 3 associates?
+The average is 6-8 weeks given 1-2 hours a day per exam. It all depends on your skill level and whether you're focusing on *learning* rather than *passing*.
+
+The setup in Adrian's courses starts with setting up an [AWS Organization](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_introduction.html), as this is the kind of environment most companies using AWS have implemented in their workplace. 
+
+Adrian's courses are also designed to overlap, so after completing the first associate you can complete the other Associates in a short time. See [here](#how-long-does-it-take-to-complete-the-saa-c02-course)
+ for more details.
+
+
+## Why do I get an error creating accounts in an AWS Organization?
+> ❌ **You have exceeded the allowed number of AWS accounts**
+
+This error can occur even though you are below the [quota maximum](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_reference_limits.html). **This is a bug.**
+
+It's been around for some time now. It shows "10", but for new accounts the quota is actually set to "2". From discussions on [TechStudySlack](https://techstudyslack.com/) this error *can resolve itself* after some unknown/unspecified period.
+
+Logging a ticket with AWS can help expedite this.
 
 ## What's Adrian's Roadmap for new courses?
 Adrian has put a notion site together which he keeps updated. 
-You can find it here: https://www.notion.so/96fc88a739dc45a59174f1acd8a96776?v=604d7bc7ed9744e1982ef257273d44f9 
+You can find it [here](https://www.notion.so/96fc88a739dc45a59174f1acd8a96776?v=604d7bc7ed9744e1982ef257273d44f9). 
 
 ## What is the best path to take through the AWS certifications?
-Best answer is "It depends" on the role you are going for :-) The certs are divided into Associate and Professional. The specialities are also considered 
-Professional. For most people wanting to work with AWS, it's best to take the Solutions Architect - Associate (SAA-C02) first to give you the broadest knowledge 
-of AWS. Then you can take the other associates; Developer (DVA-01) and SysOps (SOA-C02) or go directly to the Solutions Architect - Professional (SAP-C01) if you
-have worked with AWS and feel comfortable moving on to the SAP. Remember: The SAP certification is broad and deep across all AWS services and takes a serious 
-focus on study. 
+Best answer is "It depends" on the role you are going for :-) The certs are divided into **Associate** and **Professional**. The speciality exams are also considered Professional. 
 
-If you do get the SAP-C01, its also a good idea to take the AWS Certified Security - Specialty soon after the SAP-C01 as many of the topics are 
-covered already in Adrian's SAP-C01 course (with extra reading on AWS KMS). Then the rest of the specialties can be taken in any order. 
+No matter what your chosen role is, it's usually best to take the `Solutions Architect - Associate (SAA-C02)` first to give you broad knowledge of AWS. Afterwards, you can go for the other associates; `Developer (DVA-01)` and `SysOps (SOA-C02)` or go directly to the `Solutions Architect - Professional (SAP-C01)` if you have worked with AWS and feel comfortable moving on to the `SAP-C01`. Remember: The `SAP-C01` certification is very broad and deep across all AWS services and will require a serious effort on study and focus. 
+
+If you do get the `SAP-C01`, it can be a good idea to take the `AWS Certified DevOps Engineer - Professional (DOP-C01)` immediately afterwards, because there is significant overlap.
+
+The `AWS Certified Security - Specialty (SCS-C01)` is also a very good target after the `SAP-C01`, as it's considered the easiest AWS Speciality Exam and many topics are already covered in Adrian's `SAP-C01` course (with some extra reading on AWS KMS). T
+
+The rest of the Speciality Exams can be taken in any order. 
 
 ## Do I need to create new accounts for the course?
 Yes. Create new accounts for each course you take. THIS IS VERY IMPORTANT. 
@@ -88,25 +116,21 @@ https://support.teachable.com/hc/en-us/articles/236078487-Teachable-Accounts
 At the time of writing, there is no Android equivalent. 
 
 ## Why are only 4 layers covered in the network starter fundamentals?
-Layers 5 (SESSION), 6 (PRESENTATION) and 7 (APPLICATION). The application layer is something you organically learn (HTTP/S etc) and the presentation and session
-layers are covered intrinsically throughout the course. The 1-4 layers are the ones that need to be covered in isolation and you get to understand the rest as
-you go through the course.  
+Layers 5 (SESSION), 6 (PRESENTATION) and 7 (APPLICATION). The application layer is something you organically learn (HTTP/S etc) and the presentation and session layers are covered intrinsically throughout the course. The 1-4 layers are the ones that need to be covered in isolation and you get to understand the rest as you go through the course.  
 
 ## Are the slides of the course available?
-Short answer "no". The reasoning behind this is that you need to learn and understand the architecture by going though the course material understanding bit by
-bit on all visuals. On the associated github under https://github.com/acantril you will find a 00_LearningAids folder under some of the topics where a png
-version of the visuals is available. 
+Short answer "no". The reasoning behind this is that you need to learn and understand the architecture by going though the course material understanding bit by bit on all visuals. On the associated github under https://github.com/acantril you will find a 00_LearningAids folder under some of the topics where a png version of the visuals is available. 
 
-## Any ideas as to what applications should I write to help me learn?
-You should choose a project that solves some problem or helps you (or your friends/family) in some way. You’ll be more productive and more motivated that way.
+## Any ideas as to what applications I should write to help me learn?
+You should choose a project that solves some problem or helps you (or your friends/family) in some way. You’ll be more productive and more motivated this way.
+
 Can really be anything, here are some ideas:
 * Cryptocurrency tracking application of some kind
 * Personal cloud storage (OneDrive/Dropbox clone, but YOURS!)
 * VPN for you and all your devices
 * Blog/website of your own
 
-I’ll use one example, and illustrate what you can do for a personal project that you can showcase on Linkedin, and I’ll take personal cloud storage as an
-example. For this, I’ll be using Nextcloud https://nextcloud.com/:
+I’ll use one example, and illustrate what you can do for a personal project that you can showcase on Linkedin, and I’ll take personal cloud storage as an example. For this, I’ll be using [Nextcloud](https://nextcloud.com/):
 - Deploy NextCloud locally on your computer and test it out, see how it works.
 - Deploy NextCloud on an EC2 instance, install the NextCloud client on both your phone and computer and make sure you can upload/download files.
 - Migrate the database to RDS and make NextCloud work with it. Migrate the storage to S3 (or EFS/EBS, whatever you want).
@@ -119,25 +143,20 @@ example. For this, I’ll be using Nextcloud https://nextcloud.com/:
 - Create an architecture diagram in the README.md and make sure to provide detailed instructions so anyone can deploy what you just did
 - Once your repo is ready, publish to Linkedin, along with a blog post telling about your journey and what you learned.
 
-You can do a lot more, and use a lot more AWS services and make this more complicated. Just bear in mind that this example can be expensive if you
-upload/download a lot of data from/to AWS. You should use it as a project and proof of concept. But you can go even further and cost optimize your project
-architecture.
+You can do a lot more, and use a lot more AWS services and make this more complicated. Just bear in mind that this example can be expensive if you upload/download a lot of data from/to AWS. You should use it as a project and proof of concept. But you can go even further and cost optimize your project architecture.
 
 ## Do these courses help you get real jobs at the end?
-Certifications get you interviews but not jobs. It gets you to the table. Experience gets you jobs (on the job, personal projects or stuff learned while 
-studying). Adrian's courses are very skill focussed. It's a "by-product" getting the certifications. He is preparing you for real work experience. 
+Certifications get you interviews but not jobs. It gets you to the table. Experience gets you jobs (on the job, personal projects or stuff learned while studying). Adrian's courses are very skill focussed. It's a "by-product" getting the certifications. He is preparing you for real work experience.
 
 ## Resetting course progress?
-Technically, from what Teachable have said, it is possible with a loooooooot of work for Adrian to reset the course progress. But he has to delete the whole
-profile for every single person who asks, 1 at a time. And then we'd never get new lessons or updates!
-So very reasonably, Adrian has said "no". You could possibly log a support request with Teachable to ask for students to be able to reset their own progress.
+Technically, from what Teachable have said, it is possible with a loooooooot of work for Adrian to reset the course progress. But he has to delete the whole profile for every single person who asks, 1 at a time. And then we'd never get new lessons or updates! So very reasonably, Adrian has said "no". You could possibly log a support request with Teachable to ask for students to be able to reset their own progress.
 
 ## Is there a PDF of the course?
-Qucik answer is "NO". The best way to learn anything is to take your own notes. This makes sure you understand the material in the course. All studies show that taking
-your own notes helps you understand what you are learning. See: https://www.lifehack.org/articles/featured/writing-and-remembering-why-we-remember-what-we-write.html
+Quick answer is "NO". The best way to learn anything is to take your own notes. This makes sure you understand the material in the course. All studies show that taking your own notes helps you understand what you are learning. See: https://www.lifehack.org/articles/featured/writing-and-remembering-why-we-remember-what-we-write.html
+
 There are learning aids in the Github repo but that is specific details and not a PDF of whats said in the course material. See README.md for how best to take notes. 
 
-## How do I populate my shortcuts bar?
+## How do I populate my shortcuts bar in the AWS Console?
 AWS have recently released a shortcut bare at the top of the console. If you want to create a shortcut to your most used services follow the below instructions:
 - Press services to list the most recently used services
 ![Services](./images/services.png?raw=true "Services")
@@ -145,53 +164,46 @@ AWS have recently released a shortcut bare at the top of the console. If you wan
 ![Star](./images/listoservices.png?raw=true "List of Services")
 
 ## Are there any problems with Architecture Evolution demo?
-Directly from the slack channel from a student: *I am trying to **manually** follow this demo ([AdvancedDemo] Architecture Evolution) in another AWS account and another zone. 
-I've created manualy the VPC, subnets, security groups, role(InstanceProfile) and parameter store variables, but is always failing at the first Launch Template 
-from Stage 2 and Wordpress is not getting installed. Stage 1 with the manual Wodpress installation is going well. I've spent a couple of days on this one now :) and 
-everything is pointing me to the 1-Click deployment from STEP1 that creates the base infrastructure and is hardcoded in that 1-Click deployment. I wonder what am I am 
-missing here? I saw that 1-Click deployment has some fixes related to IPV6 but I don't think that is the problem. It is possible to modify the Cloud Formation 1-Click 
-deployment to run in another region? I couldn't find anything in yaml file that set the region.*
+Directly from the slack channel from a student: 
 
-Snippets of the discussion (Adrians comments in bold, student in italics):
+> *I am trying to **manually** follow this demo ([AdvancedDemo] Architecture Evolution) in another AWS account and another zone. 
+I've created manualy the VPC, subnets, security groups, role (InstanceProfile) and parameter store variables, but is always failing at the first Launch Template from Stage 2 and Wordpress is not getting installed. Stage 1 with the manual Wodpress installation is going well. I've spent a couple of days on this one now :) and everything is pointing me to the 1-Click deployment from STEP1 that creates the base infrastructure and is hardcoded in that 1-Click deployment. I wonder what am I am missing here? I saw that 1-Click deployment has some fixes related to IPV6 but I don't think that is the problem. It is possible to modify the Cloud Formation 1-Click deployment to run in another region? I couldn't find anything in yaml file that set the region.*
 
-- **Did you check the logs - they are in /var/log there will be cloud-init logs files**
-- **Remember just because the instance is provisioned doesn't mean the userdata has finished**
-- *logs shows that php install is still running...*
-- *took 3-5 more minute to finish after the instance was actually up*
-- **thats normal**
-- **thats why we use CFN creation policies/signals**
-- *but I learned so many things just trying to figure out the issue:)*
-- *it is easy to modify that 1-clik deployment to use another region or is more than that Yaml file ?*
-- **its easy if you know what to change**
-- **I stick to us-east-1 for a ton of reasons though**
-- **its the region which is always guarenteed to have all services**
-- **its the region all global services log to/bill to**
-- **so its the perfect one to use for study/non production workloads**
+Snippets of the discussion (Adrians comments in bold, student in italics)
+
+- Adrian: **Did you check the logs - they are in /var/log there will be cloud-init logs files**
+- Adrian: **Remember just because the instance is provisioned doesn't mean the userdata has finished**
+- Student: *logs shows that php install is still running...*
+- Student: *took 3-5 more minute to finish after the instance was actually up*
+- Adrian: **thats normal**
+- Adrian: **thats why we use CFN creation policies/signals**
+- Student: *but I learned so many things just trying to figure out the issue:)*
+- Student: *it is easy to modify that 1-clik deployment to use another region or is more than that Yaml file ?*
+- Adrian: **its easy if you know what to change**
+- Adrian: **I stick to us-east-1 for a ton of reasons though**
+- Adrian: **its the region which is always guarenteed to have all services**
+- Adrian: **its the region all global services log to/bill to**
+- Adrian: **so its the perfect one to use for study/non production workloads**
 
 ## Whats the best study technique?
-There is really no "one size fits all" here, but probably the best study technique is `read/watch => understand => compress => write => revisit`
-This is the key to storing to long term memory. And write here means `take your own notes`. Some students like flash cards. These are good as long as you create them 
-yourself and not use other peoples. Using other peoples means you only remember things. creating them, means you go through a process which encourages understanding. 
+There is really no "one size fits all" here, but probably the best study technique is: 
+* `read/watch => understand => compress => write => revisit`
+
+This is the key to storing information in your long term memory. And write here means `take your own notes`. Some students like flash cards. These are good as long as you create them yourself and not use other peoples'. Using other peoples means you only remember things - creating them means you go through a process which encourages understanding.
 
 ## Why is the answer not denied?
 ![Star](./images/crossaccpol.png?raw=true "TutDoJo Question")
 
-Remember SCPs only affect identities in that account. The identity is not in the same account as the SCP. The resource policy on the bucket allows the account the 
-identity is in to access. The identity policy allows access to S3, so access is allowed. 
+Remember SCPs only affect identities in that account. The identity is not in the same account as the SCP. The resource policy on the bucket allows the account the identity is in to access. The identity policy allows access to S3, so access is allowed. 
 
 ## What are the AWS IAM permissions on a ConsoleLogin event?
-You can't deny a ConsoleSignIn event. For example if you put a deny all policy on an IAM user they can still login. They can't see or do anything.
+You can't deny a `ConsoleSignIn` event. For example if you put a deny all policy on an IAM user they can still login. They can't see or do anything.
 
-So how does AWS SSO work in the backend you may ask. 
-AWS SSO drops you into a role in an Account. AWS SSO manages SAML providers that get auto-provisioned in your AWS accounts. AWS SSO also auto-provisions 
-service-roles that match your Permission Sets that you have configured within AWS SSO.
+So how does AWS SSO work in the backend? AWS SSO drops you into a role in an Account. AWS SSO manages SAML providers that get auto-provisioned in your AWS accounts. AWS SSO also auto-provisions service-roles that match your Permission Sets that you have configured within AWS SSO.
 
-In AWS SSO you may see a signin:UserAuthentication event in your Management AWS account. Within the Management AWS Account you will also see a sso:Authenticate event
-entering the SSO system. Then there will be an sso:Federate call leaving SSO environment. In the member account you will then see a sts:AssumeRoleWithSAML (likely 
-logged to both Management and member accounts). The role that is assumed is one of the provisioned roles that the assigned PermissionSets within AWS SSO grants access 
-to. Following this you will see a signin:ConsoleLogin event with an userIdentity.type of AssumedRole (the role is the AWS SSO service-role matching the PermissionSet).
+In AWS SSO you may see a `signin:UserAuthentication` event in your Management AWS account. Within the Management AWS Account you will also see a `sso:Authenticate` event entering the SSO system. Then there will be an `sso:Federate` call leaving SSO environment. In the member account you will then see a `sts:AssumeRoleWithSAML` (likely logged to both Management and member accounts). The role that is assumed is one of the provisioned roles that the assigned PermissionSets within AWS SSO grants access to. Following this you will see a `signin:ConsoleLogin` event with an `userIdentity` type of AssumedRole (the role is the AWS SSO service-role matching the PermissionSet).
 
-You may also see sso:GetRoleCredentials instead of sso:Federate. This is the mechanism that generates the short-lived API tokens from the SSO portal.
+You may also see `sso:GetRoleCredentials` instead of `sso:Federate`. This is the mechanism that generates the short-lived API tokens from the SSO portal.
 
 Also see https://aws.amazon.com/blogs/security/aws-cloudtrail-now-logs-aws-management-console-sign-in-events/ 
 
@@ -216,8 +228,9 @@ Going through Adrians course and examining the templates he uses is a great wy t
 
 ## Why is the answer 177 IPs in a slash 24 network
 This a question that turns up a lot on the slack channel. Finally, got around to getting it in here :-).  
+
 The question is:
-You have a VPC which uses the CIDR of 10.0.0.0/24. This is split into 3 subnets, 1 in each Availability zone. How many total usable IPs are available in the three subnets in total?
+* *You have a VPC which uses the CIDR of `10.0.0.0/24`. This is split into 3 subnets, 1 in each Availability zone. How many total usable IPs are available in the three subnets in total?*
 
 I'll try to get you thinking, so that you can work it out and understand yourself. Understanding subnetting and CIDRs is essential for moving forward.     
 
@@ -228,7 +241,7 @@ As you can see from the diagram, that a /24 can not be broken into 3 even parts 
 Have a look at the illustration Adrian has in the course:  
 ![Subnetting](./images/subnetting.png?raw=true "Subnetting")
 
-> Remember there are 5 reserved AWS IPs in any subnet. 
+> ⚠️ Remember there are [5 reserved AWS IPs](https://docs.aws.amazon.com/vpc/latest/userguide/configure-subnets.html#subnet-sizing) in any subnet. 
 
 ## Is there a discount or bundle discount for the courses?
 Quote from Adrian:  
