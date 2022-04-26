@@ -20,7 +20,7 @@ Please submit a PR to add or improve upon this FAQ.
 ## Study
 - [Whats the best study technique?](#whats-the-best-study-technique)
 - [Are there any problems with Architecture Evolution demo?](#are-there-any-problems-with-architecture-evolution-demo)
-- [Any ideas as to what applications should I write to help me learn?](#any-ideas-as-to-what-applications-should-i-write-to-help-me-learn)
+- [Any ideas as to what applications I should write to help me learn?](#any-ideas-as-to-what-applications-i-should-write-to-help-me-learn)
 - [Do these courses help you get real jobs at the end?](#do-these-courses-help-you-get-real-jobs-at-the-end)
 
 ## Certifications
