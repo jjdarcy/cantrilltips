@@ -16,6 +16,7 @@ Please submit a PR to add or improve upon this FAQ.
 - [Is there a PDF of the course?](#is-there-a-pdf-of-the-course)
 - [Why is the answer 177 IPs in a slash 24 network](#why-is-the-answer-177-ips-in-a-slash-24-network)
 - [Is there a discount or bundle discount for the courses?](#is-there-a-discount-or-bundle-discount-for-the-courses)
+- [What is the difference between a management account and an organisation root?](#what-is-the-difference-between-a-management-account-and-an-organisation-root)
 
 ## Study
 - [Whats the best study technique?](#whats-the-best-study-technique)
@@ -235,3 +236,8 @@ Quote from Adrian:
 >Whatever you've enrolled in, you can always upgrade to a bundle or a larger bundle by paying the difference.  
 >Just use our support form ( https://learncantrill.zendesk.com/hc/en-us/requests/new ).  
 >Let us know the email you registered with, what content you own, and what bundle you want, and we'll get you a personal upgrade link sent ASAP."
+
+## What is the difference between a management account and an organisation root?
+Think of the organisational root as a container. An Organisational Unit (OU) at the top of the organisation at the top most point where other OU's or accounts are located. The management account is the AWS account which created the ORGANISATION. Its an AWS account, and it's special in a few ways.  
+
+An AWS account (member or management) cannot BE an organisation root, because the organisational root is not an AWS account, its the top most point as above. 
