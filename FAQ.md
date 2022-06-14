@@ -5,6 +5,7 @@ Please submit a PR to add or improve upon this FAQ.
 
 ## The Course
 <!-- no toc -->
+- [Why do I get a 403 forbidden error when accessing?](#why-do-i-get-a-403-forbidden-error-when-accessing)
 - [How many hours do videos take?](#how-many-hours-do-videos-take)
 - [How long does it take to complete the SAA-C02 course?](#how-long-does-it-take-to-complete-the-saa-c02-course)
 - [What's an aggressive, but reasonable timeframe to complete all 3 associates?](#whats-an-aggressive-but-reasonable-timeframe-to-complete-all-3-associates)
@@ -37,6 +38,17 @@ Please submit a PR to add or improve upon this FAQ.
 - [Any good Linux courses?](#any-good-linux-courses)
 - [Any good resources to use when coding CloudFormation?](#any-good-resources-to-use-when-coding-cloudformation)
 
+
+## Why do I get a 403 forbidden error when accessing?
+Teachable have made some changes. If you get this error please check the following:
+* If you are using a browser with tracking protection ... do you have it enabled, standard, strict 
+* are you using private tabs or normal tabs
+* are you using a VPN
+* what OS, what browser
+* any workplace restrictions
+* the new player is designed to make ripping videos harder which is why it reacts badly to some stuff you can be running
+* do you have an ad blocker turned on  
+Most of the time is the browser tracking protection that is the issue. 
 
 ## How many hours do videos take?
 This question has been asked numerous times on [TechStudySlack](https://techstudyslack.com/). So much so, that a student Sherif Fanous created a Webapp, and also charts showing the overlap between courses. Check it out.
