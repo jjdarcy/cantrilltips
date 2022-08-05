@@ -1,6 +1,8 @@
 # Tips and tricks with getting a JOB in AWS
 Information here is gathered from discussions on TechStudyslack. Thanx to John O, Sameer, Adrian (ofc) and many others for contributing. 
 
+Also, read up on the STAR method when you are describing situations you have been involved in: https://interviewsteps.com/blogs/news/amazon-star-method
+
 ## Getting a job with your AWS experience
 * Length of your CV should be 2 or 3 pages max. Font size 10 minimum. Normal margins. Do not do “wall of text” or death by bullet points. Always better to land 3 messages than 20. Nobody is reading 20 page CVs
 * Use the https://resumeworded.com/ to improve your CV
