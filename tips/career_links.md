@@ -1,5 +1,7 @@
 # Career Stuff
 
+* https://github.com/johnog65536/aws_projects
+  * Build mini projects you can have on your CV  
 * https://www.linkedin.com/pulse/fake-certs-what-why-theyre-bad-adrian-cantrill/?trackingId=mhPRoSGnRSmICZyG%2BG3a%2BA%3D%3D
   * “Fake Certs” are bad for employers, they’re a risk for any projects you work on, and they negatively impact your career. 
 * https://lnkd.in/gPFKYB4M
