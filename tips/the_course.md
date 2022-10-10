@@ -1,5 +1,7 @@
 # The Course
 
+* https://youtu.be/WK4SwQaPUXM
+  * Adrians take on which certs to take and in what order
 * https://cantrill.io.i-aws.cloud/
   * Lesson and section duration of Adrian's courses, course overlap. Created by a student.
   * Beware however, there is a difference between time taken to watch a video, and time taken to understand it or to complete the lab
