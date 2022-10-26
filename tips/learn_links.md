@@ -1,5 +1,7 @@
 # How to learn more effectively
 
+* https://github.com/johnog65536/aws_projects
+  * Suggested projects to build 
 * https://medium.com/@johnog65536/how-to-prep-for-cloud-certifications-e21d03f40a6f
   * How to prepare for Cloud Certifications - John Ogden 
 * https://www.lifehack.org/articles/featured/writing-and-remembering-why-we-remember-what-we-write.html
