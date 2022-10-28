@@ -1,6 +1,8 @@
 # How to learn more effectively
 
-* https://github.com/johnog65536/aws_projects
+* https://www.linkedin.com/pulse/you-might-using-practice-exams-all-wrong-adrian-cantrill/
+  * How to use practice exams.
+* * https://github.com/johnog65536/aws_projects
   * Suggested projects to build 
 * https://medium.com/@johnog65536/how-to-prep-for-cloud-certifications-e21d03f40a6f
   * How to prepare for Cloud Certifications - John Ogden 
