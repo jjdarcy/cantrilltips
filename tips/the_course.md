@@ -17,5 +17,5 @@
   * Setting up Teachable Accounts
 * https://www.linkedin.com/pulse/fake-certs-what-why-theyre-bad-adrian-cantrill/
   * Fake certs - what are they and why are they bad
- * https://www.linkedin.com/pulse/you-might-using-practice-exams-all-wrong-adrian-cantrill/
+* https://www.linkedin.com/pulse/you-might-using-practice-exams-all-wrong-adrian-cantrill/
   * How to use the Practice Exams correctly 
