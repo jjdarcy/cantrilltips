@@ -17,13 +17,13 @@ Certification is a by-product of these courses. The important thing is to learn 
 The only true way to learn and retain information is to take notes.  
 If you are not taking notes you are not learning.  
 The process of taking your own notes is how you learn.  
-Do NOT used other peoples notes.  
+Do NOT use other peoples notes.  
 Focus on understanding a lesson. Then rationalise your understanding. Compress it. And note it.
 
 * [Practice Exams](tips/practice_exams.md) (Use tutorialsdojo.com)  
 You gain the best value from your studies by completing Adrians course first and only then start taking the [TutorialsDoJo.com](tutorialsdojo.com)
 exams.
-> Don't bother using exam dump sites, aside from it being cheating and aainst the AWS exam policy, it's just not effective. The questions are full of errors, and the supposed correct answers are frequently nonsense, meaning these questions actually harm your understanding. Even if they were somehow accurate (they arent) if you cheat your way to a pass, you will most certainly get laughed out of any professional interview within minutes. So it's just not worth it.
+> Don't bother using exam dump sites, aside from it being cheating and against the AWS exam policy, it's just not effective. The questions are full of errors, and the supposed correct answers are frequently nonsense, meaning these questions actually harm your understanding. Even if they were somehow accurate (they aren't) if you cheat your way to a pass, you will most certainly get laughed out of any professional interview within minutes. So it's just not worth it.
 
 * [Looking for a job working with AWS](AWSJobs.md)  
 Here you can find good tips about applying for a job with AWS and also some interview questions
