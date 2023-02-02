@@ -13,6 +13,9 @@ Then, work out what you need to do over the next 6 months to get to that point.
 7. Work on your CV/Resume - if you are new to IT/AWS use your demo/course/mini projects as experience.
 
 # Process. 
+
+read/listen/watch ... understand ... compress...write
+
 * Focus only on quality. Concise quality and full understanding
 * Beware the risk of passivley watching video after video, you need to focus on UNDERSTANDING not watching, see https://www.coursera.org/learn/learning-how-to-learn for more (free) advice on how to learn (from professors of neuroscience) 
 * Everything is about maximising the effectiveness not the quantity
