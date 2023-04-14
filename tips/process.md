@@ -14,7 +14,7 @@ Then, work out what you need to do over the next 6 months to get to that point.
 
 # Process. 
 
-read/listen/watch ... understand ... compress...write
+read/listen/watch ... understand ... compress...write note....make flashcards
 
 * Focus only on quality. Concise quality and full understanding
 * Beware the risk of passivley watching video after video, you need to focus on UNDERSTANDING not watching, see https://www.coursera.org/learn/learning-how-to-learn for more (free) advice on how to learn (from professors of neuroscience) 
@@ -30,8 +30,8 @@ read/listen/watch ... understand ... compress...write
 1. Go through the course in the order the videos are. Adrian has set uo this order for a reason
 2. Dont move on to the next video until you fully understand the present one
 3. Take notes as you go. YOUR OWN NOTES. Stop the video so you can write your notes with pen and paper
-4. At the end of the video, clean up your notes
-6. Make flashcards from your notes with the most import things to remember. Do it in a question / answer form. Use anki (search for it) 
+4. At the end of the video, clean up your notes and make sure they have the 5-7 things you learned in the video
+6. Make flashcards from your notes with the most important things to remember. Do it in a question / answer form. Use anki (search for it) 
 7. Go on to next video
 8. Once you are finished with the complete course AND NOT BEFORE, buy the corresponding tutorialsdojo.com practice exams
 9. Once you are consistently scoring > 90% book the exam.
