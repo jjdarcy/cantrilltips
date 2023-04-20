@@ -92,7 +92,7 @@ No matter what your chosen role is, it's usually best to take the `Solutions Arc
 
 If you do get the `SAP-C01`, it can be a good idea to take the `AWS Certified DevOps Engineer - Professional (DOP-C01)` immediately afterwards, because there is significant overlap.
 
-The `AWS Certified Security - Specialty (SCS-C01)` is also a very good target after the `SAP-C01`, as it's considered the easiest AWS Speciality Exam and many topics are already covered in Adrian's `SAP-C01` course (with some extra reading on AWS KMS). T
+The `AWS Certified Security - Specialty (SCS-C01)` is also a very good target after the `SAP-C01`, as it's considered the easiest AWS Speciality Exam and many topics are already covered in Adrian's `SAP-C01` course (with some extra reading on AWS KMS).
 
 The rest of the Speciality Exams can be taken in any order. 
 
