@@ -5,6 +5,7 @@ Please submit a PR to add or improve upon this FAQ.
 
 ## The Course
 <!-- no toc -->
+- [Having trouble with Advanced CuddleOTron demo?](#having-trouble-with-advanced-cuddleotron-demo)
 - [Why do I get a 403 forbidden error when accessing?](#why-do-i-get-a-403-forbidden-error-when-accessing)
 - [How many hours do videos take?](#how-many-hours-do-videos-take)
 - [How long does it take to complete the SAA-C02 course?](#how-long-does-it-take-to-complete-the-saa-c02-course)
@@ -38,6 +39,8 @@ Please submit a PR to add or improve upon this FAQ.
 - [Any good Linux courses?](#any-good-linux-courses)
 - [Any good resources to use when coding CloudFormation?](#any-good-resources-to-use-when-coding-cloudformation)
 
+## Having trouble with Advanced CuddleOTron demo
+Adrian has created a link with common causes and fixes here: https://github.com/acantril/learn-cantrill-io-labs/blob/master/aws-serverless-pet-cuddle-o-tron/02_LABINSTRUCTIONS/CommonIssues.md
 
 ## Why do I get a 403 forbidden error when accessing?
 Teachable have made some changes. If you get this error please check the following:
