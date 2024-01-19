@@ -7,7 +7,7 @@ Then, work out what you need to do over the next 6 months to get to that point.
 1. Pick which topics or certifications you want to study for. Before looking at content (HOW) you need to know WHAT you are aiming for.
 2. Choose your training vendor. Don't look at price, look at value. Is the course skills focused or exam focused. Is it up to date, or not. Does the instructor(s) provide help? 
 3. Build a study plan for each course/topic
-4. Join the community at https://techstudyslack.com - helping others will build your skills, you will learn a lot and hiring managers often lurk looking for potential stars.
+4. Join the community at https://discord.gg/tsd  - helping others will build your skills, you will learn a lot and hiring managers often lurk looking for potential stars.
 5. Build your professional network - work on your LinkedIn profile. Make sure it's up to date, matches your skills and has no lies or exaggeration.
 6. Find a mentor, someone who knows your industry. Whatever the cost (time/effort/money) this will pay back 100x.
 7. Work on your CV/Resume - if you are new to IT/AWS use your demo/course/mini projects as experience.
