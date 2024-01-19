@@ -2,10 +2,10 @@
 Some tips for using Adrian Cantrill's courses on https://learn.cantrill.io/. Submit a PR to add or improve upon this repository.
 
 ## Introduction
-This site gathers many of the questions asked on the [TechStudySlack](https://techstudyslack.com/) workspace to help the community find answers and help them study effectively. 
+This site gathers many of the questions asked on the [TechStudyDiscord](https://discord.gg/tsd) server to help the community find answers and help them study effectively. 
 
 * Read the [FAQ](FAQ.md)  
-Frequently asked questions on the slack workspace. Some questions are asked multiple times others are pasted from conversations on the workspace. Please add a PR if you think something is missing
+Frequently asked questions on the discord server. Some questions are asked multiple times others are pasted from conversations on the workspace. Please add a PR if you think something is missing
 
 * [The most effective process](tips/process.md) for studying  
 Its very important to adopt the correct process for your studies.  
