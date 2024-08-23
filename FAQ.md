@@ -222,7 +222,7 @@ Also see https://aws.amazon.com/blogs/security/aws-cloudtrail-now-logs-aws-manag
   * https://www.edx.org/search?q=linux
 
 ## Any good resources to use when coding CloudFormation?
-Going through Adrians course and examining the templates he uses is a great wy to understand CloudFormation. Also there are some good places to get sample templates and of course the referance pages. Some good sites to bookmark:
+Going through Adrians course and examining the templates he uses is a great way to understand CloudFormation. Also there are some good places to get sample templates and of course the referance pages. Some good sites to bookmark:
 * https://github.com/aws-cloudformation/aws-cloudformation-samples
 * https://github.com/awslabs/aws-cloudformation-templates
 * https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/CHAP_TemplateQuickRef.html
