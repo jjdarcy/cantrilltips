@@ -24,7 +24,7 @@ read/listen/watch ... understand ... compress...write note....make flashcards
 * Get hands on. Do the labs/demos Adrian designed for his course. If there are any areas that confuse you, do them again. Dive in and play around. That will help you in your career far more than simply memorizing the concepts.
 * Use the quiz at the end of each section to anchor knowledge learned.
 * Do not move on until you fully understand the content in the videos, ask on slack if your arent 100% sure
-* Confused? Have a question? Ask on the [slack community](https://techstudyslack.com/). Use `#exam-question-corner` to discuss answers with others in the community. 
+* Confused? Have a question? Ask on the [Discord Community]((https://discord.com/invite/X94UUn2dc9)). Use `#study-exam-question-corner` (https://discord.com/channels/1191146976847351970/1191274901772980234) to discuss answers with others in the community. 
 
 # In short
 1. Go through the course in the order the videos are. Adrian has set up this order for a reason
