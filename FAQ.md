@@ -8,7 +8,7 @@ Please submit a PR to add or improve upon this FAQ.
 - [Having trouble with Advanced CuddleOTron demo?](#having-trouble-with-advanced-cuddleotron-demo)
 - [Why do I get a 403 forbidden error when accessing?](#why-do-i-get-a-403-forbidden-error-when-accessing)
 - [How many hours do videos take?](#how-many-hours-do-videos-take)
-- [How long does it take to complete the SAA-C02 course?](#how-long-does-it-take-to-complete-the-saa-c02-course)
+- [How long does it take to complete the SAA-C03 course?](#how-long-does-it-take-to-complete-the-saa-c03-course)
 - [What's an aggressive, but reasonable timeframe to complete all 3 associates?](#whats-an-aggressive-but-reasonable-timeframe-to-complete-all-3-associates)
 - [What's Adrian's Roadmap for new courses?](#whats-adrians-roadmap-for-new-courses)
 - [Do I need to create new accounts for the course?](#do-i-need-to-create-new-accounts-for-the-course)
@@ -54,11 +54,11 @@ Teachable have made some changes. If you get this error please check the followi
 Most of the time is the browser tracking protection that is the issue. 
 
 ## How many hours do videos take?
-This question has been asked numerous times on [TechStudySlack](https://techstudyslack.com/). So much so, that a student Sherif Fanous created a Webapp, and also charts showing the overlap between courses. Check it out.
+This question has been asked numerous times on the [TechStudyDiscord community](https://discord.com/invite/techstudydisc). So much so, that a student Sherif Fanous created a Webapp, and also charts showing the overlap between courses. Check it out.
 
 You can find it here: https://cantrill.io.i-aws.cloud/
 
-## How long does it take to complete the SAA-C02 course?
+## How long does it take to complete the SAA-C03 course?
 For most people you should budget 6-8 weeks of your time with around 1-2 hours study per day. 
 
 > ⚠️ Make sure **not** to skip any of the fundamental lessons to get a good understanding of the basics! See Adrian's linkedin post about [focusing on fundamentals](https://www.linkedin.com/posts/adriancantrill_a-friend-of-mine-derek-morgan-just-wrote-activity-6922425127859077120-Od7z?utm_source=linkedin_share&utm_medium=member_desktop_web).
@@ -71,7 +71,7 @@ The average is 6-8 weeks given 1-2 hours a day per exam. It all depends on your 
 
 The setup in Adrian's courses starts with setting up an [AWS Organization](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_introduction.html), as this is the kind of environment most companies using AWS have implemented in their workplace. 
 
-Adrian's courses are also designed to overlap, so after completing the first associate you can complete the other Associates in a short time. See [here](#how-long-does-it-take-to-complete-the-saa-c02-course)
+Adrian's courses are also designed to overlap, so after completing the first associate you can complete the other Associates in a short time. See [here](#how-long-does-it-take-to-complete-the-saa-c03-course)
  for more details.
 
 
@@ -80,7 +80,7 @@ Adrian's courses are also designed to overlap, so after completing the first ass
 
 This error can occur even though you are below the [quota maximum](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_reference_limits.html). **This is a bug.**
 
-It's been around for some time now. It shows "10", but for new accounts the quota is actually set to "2". From discussions on [TechStudySlack](https://techstudyslack.com/) this error *can resolve itself* after some unknown/unspecified period.
+It's been around for some time now. It shows "10", but for new accounts the quota is actually set to "2". From discussions on the [TechStudyDiscord community](https://discord.com/invite/techstudydisc) this error *can resolve itself* after some unknown/unspecified period.
 
 Logging a ticket with AWS can help expedite this.
 
@@ -91,11 +91,11 @@ You can find it [here](https://www.notion.so/96fc88a739dc45a59174f1acd8a96776?v=
 ## What is the best path to take through the AWS certifications?
 Best answer is "It depends" on the role you are going for :-) The certs are divided into **Associate** and **Professional**. The speciality exams are also considered Professional. 
 
-No matter what your chosen role is, it's usually best to take the `Solutions Architect - Associate (SAA-C02)` first to give you broad knowledge of AWS. Afterwards, you can go for the other associates; `Developer (DVA-01)` and `SysOps (SOA-C02)` or go directly to the `Solutions Architect - Professional (SAP-C01)` if you have worked with AWS and feel comfortable moving on to the `SAP-C01`. Remember: The `SAP-C01` certification is very broad and deep across all AWS services and will require a serious effort on study and focus. 
+No matter what your chosen role is, it's usually best to take the `Solutions Architect - Associate (SAA-C03)` first to give you broad knowledge of AWS. Afterwards, you can go for the other associates; `Developer (DVA-C02)` and `CloudOps Engineer, formerly SysOps (SOA-C03)` or go directly to the `Solutions Architect - Professional (SAP-C02)` if you have worked with AWS and feel comfortable moving on to the `SAP-C02`. Remember: The `SAP-C02` certification is very broad and deep across all AWS services and will require a serious effort on study and focus. 
 
-If you do get the `SAP-C01`, it can be a good idea to take the `AWS Certified DevOps Engineer - Professional (DOP-C01)` immediately afterwards, because there is significant overlap.
+If you do get the `SAP-C02`, it can be a good idea to take the `AWS Certified DevOps Engineer - Professional (DOP-C02)` immediately afterwards, because there is significant overlap.
 
-The `AWS Certified Security - Specialty (SCS-C01)` is also a very good target after the `SAP-C01`, as it's considered the easiest AWS Speciality Exam and many topics are already covered in Adrian's `SAP-C01` course (with some extra reading on AWS KMS).
+The `AWS Certified Security - Specialty (SCS-C03)` is also a very good target after the `SAP-C02`, as it's considered the easiest AWS Speciality Exam and many topics are already covered in Adrian's `SAP-C02` course (with some extra reading on AWS KMS).
 
 The rest of the Speciality Exams can be taken in any order. 
 
@@ -166,7 +166,7 @@ AWS have recently released a shortcut bare at the top of the console. If you wan
 ![Star](./images/listoservices.png?raw=true "List of Services")
 
 ## Are there any problems with Architecture Evolution demo?
-Directly from the slack channel from a student: 
+Directly from the Discord channel from a student: 
 
 > *I am trying to **manually** follow this demo ([AdvancedDemo] Architecture Evolution) in another AWS account and another zone. 
 I've created manualy the VPC, subnets, security groups, role (InstanceProfile) and parameter store variables, but is always failing at the first Launch Template from Stage 2 and Wordpress is not getting installed. Stage 1 with the manual Wodpress installation is going well. I've spent a couple of days on this one now :) and everything is pointing me to the 1-Click deployment from STEP1 that creates the base infrastructure and is hardcoded in that 1-Click deployment. I wonder what am I am missing here? I saw that 1-Click deployment has some fixes related to IPV6 but I don't think that is the problem. It is possible to modify the Cloud Formation 1-Click deployment to run in another region? I couldn't find anything in yaml file that set the region.*
@@ -216,7 +216,7 @@ Also see https://aws.amazon.com/blogs/security/aws-cloudtrail-now-logs-aws-manag
   * https://linux-training.be/
   * https://www.server-world.info/en/
 * Non-Free
-  * Udemy: Linux Administration: The Complete Linux Bootcamp for 2022, Andrei Dimitrescu
+  * Udemy: Linux Administration: The Complete Linux Bootcamp, Andrei Dimitrescu
   * LinkedIn Learning - All from Grant McWilliams
   * Cisco’s -  NDG Linux Essentials, and NDG Linux I, and II which indeed covers LPIC
   * https://www.edx.org/search?q=linux
@@ -229,7 +229,7 @@ Going through Adrians course and examining the templates he uses is a great way 
 * https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-template-resource-type-ref.html
 
 ## Why is the answer 177 IPs in a slash 24 network
-This a question that turns up a lot on the slack channel. Finally, got around to getting it in here :-).  
+This a question that turns up a lot on the Discord channel. Finally, got around to getting it in here :-).  
 
 The question is:
 * *You have a VPC which uses the CIDR of `10.0.0.0/24`. This is split into 3 subnets, 1 in each Availability zone. How many total usable IPs are available in the three subnets in total?*

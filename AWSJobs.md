@@ -1,5 +1,5 @@
 # What is a Solution Architect and what do they do?
-This text was taken from a discussion on the TechStudySlack community. The text is taken "as is":
+This text was taken from a discussion on the TechStudyDiscord community. The text is taken "as is":
 
 > @JohnOgdan:
 > There are often posts about requirements for “entry level SA” jobs. Would be interested to understand what people think an entry level SA job is?
@@ -75,7 +75,7 @@ This text was taken from a discussion on the TechStudySlack community. The text 
 > I don't think you can answer challenges like the above without detailed understanding of AWS, applications, databases, and internal politics
 
 # Tips and tricks with getting a JOB in AWS
-Information here is gathered from discussions on TechStudyslack. Thanx to John O, Sameer, Adrian (ofc) and many others for contributing. 
+Information here is gathered from discussions on TechStudyDiscord. Thanx to John O, Sameer, Adrian (ofc) and many others for contributing.
 
 Also, read up on the STAR method when you are describing situations you have been involved in: https://interviewsteps.com/blogs/news/amazon-star-method
 
